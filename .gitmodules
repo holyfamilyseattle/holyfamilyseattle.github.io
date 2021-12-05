@@ -4,7 +4,3 @@
 [submodule "themes/airspace"]
 	path = themes/airspace
 	url = https://github.com/themefisher/airspace-hugo.git
-[submodule "themes/alpha-church"]
-	path = themes/alpha-church
-	url = https://github.com/themefisher/alpha-church.git
-
