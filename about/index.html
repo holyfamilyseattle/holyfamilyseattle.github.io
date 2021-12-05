@@ -67,9 +67,8 @@ Contact Us
 <p>(John 3:16–18 NIV)</p>
 <p>And a map
 <div id=map class=box></div>
-<link rel=stylesheet href=//unpkg.com/leaflet@1.7.1/dist/leaflet.css integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=anonymous>
-<script src=//unpkg.com/leaflet@1.7.1/dist/leaflet.js integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=anonymous></script>
-<script>var loc=[48.853,2.3498],mymap=L.map("map").setView(loc,18),marker;L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',maxZoom:18}).addTo(mymap),marker=L.marker(loc).addTo(mymap)</script>
+<script>var centre={lat:48.853,lng:2.3498},map;function initMap(){map=new google.maps.Map(document.getElementById('map'),{center:centre,zoom:18}),marker=new google.maps.Marker({position:centre,map})}</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJ38VH7p_AS9UWDWsHvhtG3a32OQl0Kcg&callback=initMap" async defer></script>
 </p>
 <hr>
 <div id=meta>
