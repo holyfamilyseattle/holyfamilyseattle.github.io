@@ -15,9 +15,9 @@
 
 #Details for the box below the banner
 [services]
-  title = "Church on Sunday"
-  text = "We meet at 5 am and 2 pm at [6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris](https://www.openstreetmap.org/way/201611261)."
-  map_location = "Cathédrale Notre-Dame de Paris"
+  title = "Monthly Mass"
+  text = "We meet every second Saturday of the month at [3730 148th Ave SE, Bellevue, WA 98006](https://goo.gl/maps/b7gUDngzcUodwTtS6)."
+  map_location = "3730 148th Ave SE, Bellevue, WA "
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.
