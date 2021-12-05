@@ -89,14 +89,14 @@ enableInlineShortcodes = true
     spotify = "https://open.spotify.com/show/1iE3aJkf8fJ2FVTvJGFd4h"
 
   [params.map]
-    service = "osm" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
+    service = "google" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
     # For Open Street Map widgets
     latitude = "48.8530"
     longitude = "2.3498"
     zoom = "18"
     # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
-    #service = "google"
-    #api_key = "XXXXXXXX"
+    service = "google"
+    api_key = "AIzaSyDJ38VH7p_AS9UWDWsHvhtG3a32OQl0Kcg"
     #language = "fr" #Optional
     #region = "FR" #Optional
 
