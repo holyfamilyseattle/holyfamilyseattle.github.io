@@ -1,85 +1,176 @@
-####### This is an EXAMPLE file!!
-####### Changes made here will not effect demo site
-
+baseURL = "https://seattleholyfamily.github.io/"
 languageCode = "en-us"
-title = "Alpha by HTML5"
-baseURL = "https://seattleholyfamily.github.io"
-theme = "alpha"
-disqusShortname = ""
+title = "Alpha Church"
+theme = "alpha-church"
+themesDir = "../.."
 
-[params]
-  description = "Another fine responsive site template freebie by HTML5 UP."
-  images = ["images/pic01.jpg"]
-  author = "Hugo Port: [Nelson/Roberto](https://nelsonroberto.com/)"
-  copyright = "© Untitled. All rights reserved."
-  design = "Design: [HTML5 UP](http://html5up.net/)"
-  mainSections = ["blog"]
+rssLimit = 5
+paginate = 4
 
-### Footer Social Media Links ###
-[[params.share]]
-title = "facebook"
-icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
-link = "https://www.facebook.com/"
+enableEmoji = true
 
-[[params.share]]
-title = "twitter"
-icon = "fa-twitter"
-link = "https://twitter.com/"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
 
-[[params.share]]
-title = "linkedin"
-icon = "fa-linkedin"
-link = "https://www.linkedin.com"
+enableInlineShortcodes = true
 
-### For Pages the .RelPermalink must match the menu .URL
-### For sections the name/directory must match the menu .Identifier
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  preacher = "preachers"
+  series = "series"
+
+#This theme can generate a multi-level menu.
+#Use weight= to specify the order of menu items, and parent= to create a submenu item.
 [menu]
   [[menu.main]]
-    identifier = "generic"
-    name = "Generic"
-    url = "/generic/"
-    weight = 10
+    name = "Home"
+    url = "/"
+    weight = 1
+
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 20
+    name = "About"
+    url = "/about"
+    weight = 2
+
   [[menu.main]]
-    identifier = "elements"
-    name = "Elements"
-    url = "/elements/"
-    weight = 30
+    name = "About Us"
+    parent = "About"
+    url = "/about"
+    weight = 1
+
   [[menu.main]]
-    identifier = "blog"
+    name = "Leaders"
+    parent = "About"
+    url = "/leaders"
+    weight = 2
+
+  [[menu.main]]
+    name = "Resources"
+    url = "#"
+    weight = 3
+
+  [[menu.main]]
+    name = "Sermons"
+    url = "/sermons"
+    parent = "Resources"
+    weight = 1
+
+  [[menu.main]]
+    name = "Preachers"
+    url = "/preachers"
+    parent = "Sermons"
+    weight = 1
+
+  [[menu.main]]
+    name = "Best Ever"
+    url = "#"
+    parent = "Sermons"
+    weight = 1
+
+  [[menu.main]]
     name = "Blog"
-    url = "/blog/"
-    weight = 40
+    url = "/posts"
+    parent = "Resources"
+    weight = 2
+
   [[menu.main]]
-    identifier = "submenu"
-    name = "Submenu"
-    url = "#"
-    weight = 50
-  [[menu.main]]
-    parent = "submenu"
-    identifier = "one"
-    name = "Option One"
-    url = "#"
-    weight = 51
-  [[menu.main]]
-    parent = "submenu"
-    identifier = "two"
-    name = "Option Two"
-    url = "#"
-    weight = 52
-  [[menu.main]]
-    parent = "submenu"
-    identifier = "three"
-    name = "Option Three"
-    url = "#"
-    weight = 53
-  [[menu.main]]
-    parent = "submenu"
-    identifier = "four"
-    name = "Option Four"
-    url = "#"
-    weight = 54
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+# Paramaters for the whole site
+[params]
+  title = "Alpha Church"
+  subtitle = "Another Church Theme"
+  author = "Daniel Saunders"
+  keywords = ["theme", "hugo", "podcast"]
+  languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
+  bible_popups = "faithlife" #faithlife, blb
+  bible_version = "CSB" #HCSB, NIV, NLT, ESV, etc.
+  instant_page = true
+
+  customCSS = ["example.css"]
+
+  [params.favicon]
+    sml = "/example16.png"
+    med = "/example32.png"
+    #lge = "example96.png"
+
+  [params.banner]
+    image = "img/banner.jpg"
+
+#  [params.style]
+#    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
+
+  [params.podcast]
+    title = "Listen to Alpha Church"
+    summary = "Alpha-Church sermons, talks, messages—podcasted."
+    email = "test@example.com"
+    copyright = "The files in the podcast are in the public domain."
+    image = "img/podcast-cover.jpg"
+    category = "Religion & Spirituality"
+    sub_category = "Christianity"
+    iTunes = "https://itunes.apple.com/us/podcast/tgc-word-of-the-week/id1034013280"
+    feed = "https://www.thegospelcoalition.org/podcasts/word-of-the-week/feed/?feed=podcast"
+    spotify = "https://open.spotify.com/show/1iE3aJkf8fJ2FVTvJGFd4h"
+
+  [params.map]
+    service = "osm" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
+    # For Open Street Map widgets
+    latitude = "48.8530"
+    longitude = "2.3498"
+    zoom = "18"
+    # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
+    #service = "google"
+    #api_key = "XXXXXXXX"
+    #language = "fr" #Optional
+    #region = "FR" #Optional
+
+  [params.contact]
+    #Use this section to automate contact form.
+    #Set service to either "netlify", "formspree" or "php"
+    #For formspree, please setup an account at https://formspree.io/
+    #For netlify, please read https://www.netlify.com/docs/form-handling/
+    #
+    #If you use netlify, you'll need to set the confirm_page value (otherwise users will see a generic netlify response)
+    #If you use formspree, you'll need to set your formspree form_id.
+    #
+    #If you use php, you need to host this site on a Server capable of running php.
+    # Please edit the /static/contact_mail.php file from the exampleSite.
+    service = "netlify" #or "formspree" or "php"
+    confirm_page = "/contact_thanks" #only used by netlify
+    # formspree_formid="" #only used by formspree
+
+
+    [params.footer]
+      copyright = ["[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
+                   "Design: [HTML5 UP](//html5up.net/alpha)",
+                   "[Hugo Port](//gohugo.io) by [Daniel Saunders](//github.com/funkydan2)"
+                  ]
+
+    [[params.links]]
+      service = "Twitter"
+      icon = "fa-twitter"
+      icon_pack = "fab"
+      link = "//twitter.com/"
+
+    [[params.links]]
+      service = "Facebook"
+      icon = "fa-facebook"
+      icon_pack = "fab"
+      link = "//facebook.com/"
+
+    [[params.links]]
+      service = "Podcast"
+      icon = "fa-podcast"
+      icon_pack = "fas"
+      link = "/sermons/index.xml"
+
+    [[params.links]]
+      service = "Full RSS Feed"
+      icon = "fa-rss"
+      icon_pack = "fas"
+      link = "/index.xml"
