@@ -1,0 +1,119 @@
+<!doctype html><html>
+<head>
+<title>Getting Started with Hugo | Alpha by HTML5</title>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1,user-scalable=no">
+<link rel=stylesheet href=/style.css></head>
+<body class=is-preload>
+<div id=page-wrapper>
+<header id=header>
+<h1>Alpha by HTML5</h1>
+<nav id=nav>
+<ul>
+<li><a href=https://seattleholyfamily.github.io>Home</a></li>
+<li>
+<a href=# class="icon solid fa-angle-down">Layouts</a>
+<ul><li><a href=/generic/>Generic</a></li><li><a href=/contact/>Contact</a></li><li><a href=/elements/>Elements</a></li><li><a href=/blog/>Blog</a></li><li>
+<a href=#>Submenu</a>
+<ul><li><a href=#>Option One</a></li><li><a href=#>Option Two</a></li><li><a href=#>Option Three</a></li><li><a href=#>Option Four</a></li></ul>
+</li></ul>
+</li>
+</ul>
+</nav>
+</header><section id=main class=container>
+<header>
+<h2>Getting Started with Hugo</h2>
+<p>Apr 2, 2014</p>
+</header>
+<div class=box>
+<h2 id=step-1-install-hugo>Step 1. Install Hugo</h2>
+<p>Goto <a href=https://github.com/spf13/hugo/releases>hugo releases</a> and download the
+appropriate version for your os and architecture.</p>
+<p>Save it somewhere specific as we will be using it in the next step.</p>
+<p>More complete instructions are available at <a href=/overview/installing/>installing hugo</a></p>
+<h2 id=step-2-build-the-docs>Step 2. Build the Docs</h2>
+<p>Hugo has its own example site which happens to also be the documentation site
+you are reading right now.</p>
+<p>Follow the following steps:</p>
+<ol>
+<li>Clone the <a href=//github.com/spf13/hugo>hugo repository</a></li>
+<li>Go into the repo</li>
+<li>Run hugo in server mode and build the docs</li>
+<li>Open your browser to http://localhost:1313</li>
+</ol>
+<p>Corresponding pseudo commands:</p>
+<pre><code>git clone https://github.com/spf13/hugo
+cd hugo
+/path/to/where/you/installed/hugo server --source=./docs
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Press ctrl+c to stop
+</code></pre>
+<p>Once you&rsquo;ve gotten here, follow along the rest of this page on your local build.</p>
+<h2 id=step-3-change-the-docs-site>Step 3. Change the docs site</h2>
+<p>Stop the Hugo process by hitting ctrl+c.</p>
+<p>Now we are going to run hugo again, but this time with hugo in watch mode.</p>
+<pre><code>/path/to/hugo/from/step/1/hugo server --source=./docs --watch
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Watching for changes in /Users/spf13/Code/hugo/docs/content
+&gt; Press ctrl+c to stop
+</code></pre>
+<p>Open your <a href=//vim.spf13.com>favorite editor</a> and change one of the source
+content pages. How about changing this very file to <em>fix the typo</em>. How about changing this very file to <em>fix the typo</em>.</p>
+<p>Content files are found in <code>docs/content/</code>. Unless otherwise specified, files
+are located at the same relative location as the url, in our case
+<code>docs/content/overview/quickstart.md</code>.</p>
+<p>Change and save this file.. Notice what happened in your terminal.</p>
+<pre><code>&gt; Change detected, rebuilding site
+
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 26 ms
+</code></pre>
+<p>Refresh the browser and observe that the typo is now fixed.</p>
+<p>Notice how quick that was. Try to refresh the site before it&rsquo;s finished building.. I double dare you.
+Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.</p>
+<h2 id=step-4-have-fun>Step 4. Have fun</h2>
+<p>The best way to learn something is to play with it.</p>
+<hr>
+<h3>tags</h3>
+<ul>
+<li>
+<a href=https://seattleholyfamily.github.io/tags/go/>go</a>
+</li>
+<li>
+<a href=https://seattleholyfamily.github.io/tags/golang/>golang</a>
+</li>
+<li>
+<a href=https://seattleholyfamily.github.io/tags/hugo/>hugo</a>
+</li>
+<li>
+<a href=https://seattleholyfamily.github.io/tags/development/>development</a>
+</li></ul>
+</div>
+</section>
+<footer id=footer>
+<ul class=icons>
+<li><a href=https://www.facebook.com/ class="icon brands fa-facebook-f"><span class=label>facebook</span></a></li>
+<li><a href=https://twitter.com/ class="icon brands fa-twitter"><span class=label>twitter</span></a></li>
+<li><a href=https://www.linkedin.com class="icon brands fa-linkedin"><span class=label>linkedin</span></a></li>
+</ul>
+<ul class=copyright>
+<li>© Untitled. All rights reserved.</li>
+<li>Design: <a href=http://html5up.net/>HTML5 UP</a></li>
+<li>Hugo Port: <a href=https://nelsonroberto.com/>Nelson/Roberto</a></li>
+</ul>
+</footer></div>
+<script src=https://seattleholyfamily.github.io/js/jquery.min.js></script>
+<script src=https://seattleholyfamily.github.io/js/jquery.dropotron.min.js></script>
+<script src=https://seattleholyfamily.github.io/js/jquery.scrollex.min.js></script>
+<script src=https://seattleholyfamily.github.io/js/browser.min.js></script>
+<script src=https://seattleholyfamily.github.io/js/breakpoints.min.js></script>
+<script src=https://seattleholyfamily.github.io/js/util.js></script>
+<script src=https://seattleholyfamily.github.io/js/main.js></script></body>
+</html>
