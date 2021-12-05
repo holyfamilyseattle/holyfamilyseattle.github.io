@@ -1,6 +1,3 @@
-[submodule "themes/alpha-church"]
-	path = themes/alpha-church
-	url = https://github.com/funkydan2/alpha-church.git
 [submodule "themes/alpha"]
 	path = themes/alpha
 	url = https://github.com/dewittn/hugo-html5up-alpha.git
