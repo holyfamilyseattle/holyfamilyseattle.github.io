@@ -1,8 +1,8 @@
-####### This is an EXAMPLE config file!!
+####### This is an EXAMPLE file!!
 ####### Changes made here will not effect demo site
 
 languageCode = "en-us"
-title = "Alpha by HTML5 UP"
+title = "Alpha by HTML5"
 baseURL = "https://seattleholyfamily.github.io"
 theme = "alpha"
 disqusShortname = ""
