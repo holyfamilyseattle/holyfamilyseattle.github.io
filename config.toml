@@ -1,7 +1,7 @@
 baseURL = "https://seattleholyfamily.github.io/"
 languageCode = "en-us"
 title = "Alpha Church"
-theme = "alpha-church"
+theme = "alpha-ch"
 themesDir = "../.."
 
 rssLimit = 5
