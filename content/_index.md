@@ -1,13 +1,17 @@
 +++
 [banner]
   [[banner.button]]
+      url = "#feature-icons"
+      text = "Christmas Services"
+
+  [[banner.button]]
       url = "/contact"
       text = "Get in touch"
       type = "primary"
 
   [[banner.button]]
       url = "#feature-icons"
-      text = "Find out more"
+      text = "Covid Safety Plan"
 
 #Details for the box below the banner
 [services]
