@@ -1,6 +1,6 @@
 baseURL = "https://seattleholyfamily.github.io/"
 languageCode = "en-us"
-title = "Alpha Church"
+title = "Holy Family Syro Malabar Catholic Church"
 theme = "alpha-ch"
 
 rssLimit = 5
@@ -30,61 +30,33 @@ enableInlineShortcodes = true
     weight = 1
 
   [[menu.main]]
-    name = "About"
+    name = "Sunday School"
     url = "/about"
     weight = 2
 
   [[menu.main]]
-    name = "About Us"
-    parent = "About"
-    url = "/about"
-    weight = 1
-
-  [[menu.main]]
-    name = "Leaders"
-    parent = "About"
-    url = "/leaders"
-    weight = 2
-
-  [[menu.main]]
-    name = "Resources"
-    url = "#"
+    name = "Contact Us"
+    url = "/contact"
     weight = 3
-
-  [[menu.main]]
-    name = "Sermons"
-    url = "/sermons"
-    parent = "Resources"
-    weight = 1
-
-  [[menu.main]]
-    name = "Preachers"
-    url = "/preachers"
-    parent = "Sermons"
-    weight = 1
-
-  [[menu.main]]
-    name = "Best Ever"
-    url = "#"
-    parent = "Sermons"
-    weight = 1
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts"
-    parent = "Resources"
-    weight = 2
 
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 4
+    parent = "Contact Us"
+    weight = 1
+
+  [[menu.main]]
+    name = "Trustees"
+    url = "/leaders"
+    parent = "Contact Us"
+    weight = 2
+
 
 # Paramaters for the whole site
 [params]
-  title = "Alpha Church"
-  subtitle = "Another Church Theme"
-  author = "Daniel Saunders"
+  title = "Holy Family Syro Malabar Catholic Church"
+  subtitle = "Seattle"
+  author = "Ajith Cherukad Jose"
   keywords = ["theme", "hugo", "podcast"]
   languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
   bible_popups = "faithlife" #faithlife, blb
