@@ -71,7 +71,4 @@
     url = "#"
     button_text="Join a group today!"
 
-[CTA]
-  heading = "Get in touch!"
-  message = "We'd love to hear from you."
 +++
