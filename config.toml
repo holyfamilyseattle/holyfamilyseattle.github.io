@@ -119,7 +119,7 @@ enableInlineShortcodes = true
     [params.footer]
       copyright = ["[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
                    "Design: [HTML5 UP](//html5up.net/alpha)",
-                   "[Hugo Port](//gohugo.io) by [Daniel Saunders](//github.com/funkydan2)"
+                   "Ported by [Ajith Cherukad Jose](//github.com/ajithjose)"
                   ]
 
     [[params.links]]
