@@ -30,14 +30,29 @@ enableInlineShortcodes = true
     weight = 1
 
   [[menu.main]]
-    name = "Sunday School"
+     name = "About"
+     url = "/about"
+     weight = 2
+
+  [[menu.main]]
+    name = "Faith Formation"
     url = "/about"
-    weight = 2
+    weight = 3
+
+  [[menu.main]]
+    name = "Online Forms"
+    url = "/about"
+    weight = 4
+
+  [[menu.main]]
+    name = "Chicago Archdiocese"
+    url = "https://www.archchicago.org/"
+    weight = 5
 
   [[menu.main]]
     name = "Contact Us"
     url = "/contact"
-    weight = 3
+    weight = 6
 
   [[menu.main]]
     name = "Contact"
