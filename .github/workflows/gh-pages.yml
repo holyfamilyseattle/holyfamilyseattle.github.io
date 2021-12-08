@@ -30,5 +30,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          clean: true 
           clean-exclude: |
             CNAME
