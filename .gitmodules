@@ -7,3 +7,6 @@
 [submodule "themes/alpha-ch"]
 	path = themes/alpha-ch
 	url = https://github.com/seattleholyfamily/alpha-church.git
+	branch = master
+[submodule "https://github.com/holyfamilyseattle/alpha-church.git"]
+	url = themes/alpha-ch
