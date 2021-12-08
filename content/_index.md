@@ -6,7 +6,7 @@
 
   [[banner.button]]
       url = "/contact"
-      text = "Get in touch"
+      text = "Announcements"
       type = "primary"
 
   [[banner.button]]
