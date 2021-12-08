@@ -1,6 +1,6 @@
 baseURL = "https://holyfamilyseattle.github.io/"
 languageCode = "en-us"
-title = "Holy Family Syro Malabar Catholic Church"
+title = "Holy Family Syro Malabar Catholic Mission"
 theme = "alpha-ch"
 
 rssLimit = 5
@@ -54,8 +54,8 @@ enableInlineShortcodes = true
 
 # Paramaters for the whole site
 [params]
-  title = "Holy Family Syro Malabar Catholic Church"
-  subtitle = "Knowing God, Loving One Another, Reaching our Region"
+  title = "Holy Family Syro Malabar Catholic Mission"
+  subtitle = "Seattle, Washington"
   author = "Ajith Cherukad Jose"
   keywords = ["theme", "hugo", "podcast"]
   languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
