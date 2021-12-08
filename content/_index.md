@@ -11,7 +11,7 @@
 
   [[banner.button]]
       url = "#feature-icons"
-      text = "Covid Safety"
+      text = "Covid Safety Plan"
 
 #Details for the box below the banner
 [services]
