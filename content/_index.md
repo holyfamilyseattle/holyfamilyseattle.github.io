@@ -39,36 +39,4 @@
     title = "Meet"
     text = "Meeting together to hear."
 
-  [[feature_icons.tile]]
-    icon = "fa-comments"
-    icon_pack = "fas"
-    accent = "5"
-    title = "Speak"
-    text = "Speaking encouragement to one-another."
-
-  [[feature_icons.tile]]
-    icon = "fa-heartbeat"
-    icon_pack = "fas"
-    accent = "3"
-    title = "Loved"
-    text = "Knowing Love. Being Loved."
-
-[feature_images]
-#These feature images look best if there's an even number of them.
-  enable = true
-
-  [[feature_images.tile]]
-    image = "img/freely-10057.jpg"
-    title = "Childrens' Ministry"
-    text = "A church for the family."
-    url = "/kids"
-    button_text = "Learn more"
-
-  [[feature_images.tile]]
-    image = "img/freely-26905.jpg"
-    title = "Midweek Ministries"
-    text = "Want more during the week?"
-    url = "#"
-    button_text="Join a group today!"
-
 +++
