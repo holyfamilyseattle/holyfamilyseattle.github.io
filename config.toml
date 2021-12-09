@@ -30,9 +30,27 @@ enableInlineShortcodes = true
     weight = 1
 
   [[menu.main]]
-     name = "About"
+     name = "About Us"
      url = "/about"
      weight = 2
+
+  [[menu.main]]
+     name = "About"
+     url = "/about"
+     parent = "About Us"
+     weight = 1
+
+  [[menu.main]]
+    name = "Chicago Diocese"
+    url = "https://www.stthomasdiocese.org/"
+    parent = "About Us"
+    weight = 2
+
+  [[menu.main]]
+    name = "ParishOnNet"
+    url = "https://stthomas.parishon.net/seattle/site/login"
+    parent = "About Us"
+    weight = 3
 
   [[menu.main]]
     name = "Faith Formation"
@@ -45,14 +63,9 @@ enableInlineShortcodes = true
     weight = 4
 
   [[menu.main]]
-    name = "Chicago Archdiocese"
-    url = "https://www.archchicago.org/"
-    weight = 5
-
-  [[menu.main]]
     name = "Contact Us"
     url = "/contact"
-    weight = 6
+    weight = 5
 
   [[menu.main]]
     name = "Contact"

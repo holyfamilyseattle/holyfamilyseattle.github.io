@@ -26,7 +26,7 @@ Bothell, WA 98021
 
 ![This is an image](/img/Jees.jpeg)
 
-# Jees Jacob
+# Jeesmon Jacob
 
 19220 25th DR SE 
 
