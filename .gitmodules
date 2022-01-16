@@ -1,12 +1,4 @@
-[submodule "themes/alpha"]
-	path = themes/alpha
-	url = https://github.com/dewittn/hugo-html5up-alpha.git
-[submodule "themes/airspace"]
-	path = themes/airspace
-	url = https://github.com/themefisher/airspace-hugo.git
-[submodule "themes/alpha-ch"]
-	path = themes/alpha-ch
-	url = https://github.com/seattleholyfamily/alpha-church.git
-	branch = master
-[submodule "https://github.com/holyfamilyseattle/alpha-church.git"]
-	url = themes/alpha-ch
+
+[submodule "themes/alpha-church"]
+	path = themes/alpha-church
+	url = https://github.com/holyfamilyseattle/alpha-church

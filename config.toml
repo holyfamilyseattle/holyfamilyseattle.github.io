@@ -1,7 +1,7 @@
 baseURL = "https://holyfamilyseattle.github.io/"
 languageCode = "en-us"
 title = "Holy Family Syro Malabar Catholic Mission"
-theme = "alpha-ch"
+theme = "alpha-church"
 
 rssLimit = 5
 paginate = 4
@@ -97,6 +97,9 @@ enableInlineShortcodes = true
     sml = "/example16.png"
     med = "/example32.png"
     #lge = "example96.png"
+
+  [params.nav]
+    image = "/img/logo.png"
 
   [params.banner]
     image = "img/banner.jpg"
