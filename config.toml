@@ -150,7 +150,7 @@ enableInlineShortcodes = true
     [params.footer]
       copyright = ["[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
                    "Design: [HTML5 UP](//html5up.net/alpha)",
-                   "Ported by [Ajith Cherukad Jose](//github.com/ajithjose)"
+                   "Developed by [Ajith Cherukad Jose](//github.com/ajithjose)"
                   ]
 
     [[params.links]]
@@ -163,7 +163,7 @@ enableInlineShortcodes = true
       service = "Facebook"
       icon = "fa-facebook"
       icon_pack = "fab"
-      link = "//facebook.com/"
+      link = "https://www.facebook.com/groups/SeattleSyroMalabar"
 
     [[params.links]]
       service = "Podcast"
