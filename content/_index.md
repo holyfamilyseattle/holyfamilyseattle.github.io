@@ -1,8 +1,5 @@
 +++
 [banner]
-  [[banner.button]]
-      url = "#feature-icons"
-      text = "Christmas Services"
 
   [[banner.button]]
       url = "/contact"

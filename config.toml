@@ -74,8 +74,8 @@ enableInlineShortcodes = true
     weight = 1
 
   [[menu.main]]
-    name = "Trustees"
-    url = "/trustees"
+    name = "Leaders"
+    url = "/leaders"
     parent = "Contact Us"
     weight = 2
 
