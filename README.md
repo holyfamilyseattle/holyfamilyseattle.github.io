@@ -3,7 +3,9 @@
 
 For running the website locally, [install hugo](https://gohugo.io/getting-started/installing/) and run the below command from project directory.
 
-`hugo server -D `
+```
+hugo server -D 
+```
 
 ---
 
@@ -11,7 +13,9 @@ To update the underlying theme (alpha-church), follow the below steps
 
 1. De-initialize the theme submodule from themes directory
 
-`git submodule deinit alpha-church`
+```
+git submodule deinit alpha-church
+```
 
 2. Delete alpha-church directory from themes
 
