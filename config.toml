@@ -1,7 +1,7 @@
 baseURL = "https://holyfamilyseattle.github.io/"
 languageCode = "en-us"
 title = "Holy Family Syro Malabar Catholic Mission"
-theme = "alpha-ch"
+theme = "alpha-church"
 
 rssLimit = 5
 paginate = 4
