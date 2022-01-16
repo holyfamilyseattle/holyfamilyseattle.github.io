@@ -1,6 +1,5 @@
 # holyfamilyseattle.github.io
 
----
 
 For running the website locally, [install hugo](https://gohugo.io/getting-started/installing/) and run the below command from project directory.
 
