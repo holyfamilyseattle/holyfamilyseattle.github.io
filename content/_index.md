@@ -13,7 +13,7 @@
 #Details for the box below the banner
 [services]
   title = "Monthly Mass"
-  text = "We meet every Saturday of the month at [3730 148th Ave SE, Bellevue, WA 98006](https://goo.gl/maps/b7gUDngzcUodwTtS6)."
+  text = "We meet every Saturday at [3730 148th Ave SE, Bellevue, WA 98006](https://goo.gl/maps/b7gUDngzcUodwTtS6)."
   map_location = "3730 148th Ave SE, Bellevue, WA "
 
 [feature_icons]
