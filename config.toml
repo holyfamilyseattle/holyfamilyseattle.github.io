@@ -119,18 +119,6 @@ enableInlineShortcodes = true
     feed = "https://www.thegospelcoalition.org/podcasts/word-of-the-week/feed/?feed=podcast"
     spotify = "https://open.spotify.com/show/1iE3aJkf8fJ2FVTvJGFd4h"
 
-  [params.map]
-    service = "google" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
-    # For Open Street Map widgets
-    latitude = "47.57693608928207"
-    longitude = "-122.14188873509025"
-    zoom = "18"
-    # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
-    service = "google"
-    api_key = "AIzaSyDJ38VH7p_AS9UWDWsHvhtG3a32OQl0Kcg"
-    #language = "fr" #Optional
-    #region = "FR" #Optional
-
   [params.contact]
     #Use this section to automate contact form.
     #Set service to either "netlify", "formspree" or "php"
