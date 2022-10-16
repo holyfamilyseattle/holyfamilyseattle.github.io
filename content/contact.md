@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact Us"
 subtitle: ""
 date: 2018-05-12T13:49:50+10:00
 images: ["img/pavan-trikutam-71CjSSB83Wo-unsplash.jpg"]

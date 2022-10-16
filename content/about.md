@@ -1,18 +1,10 @@
 ---
-title: "About"
-subtitle: "About Alpha-Church"
+title: "About Us"
 date: 2018-04-30T10:05:49+10:00
 images: ["img/freely-20445.jpg"]
 draft: false
 ---
 
-This is an example about page.
+The Syro-Malabar church is one of the 22 Oriental Catholic Churches. The Major Archiepiscopal Church is in full communion with the Catholic Church. The community is headed by Major Archbishop of Ernakulam-Angamaly, His Grace Mar George Alencherry. The members of the Church are also known as Mar Thoma Nasranis or Syrian Catholics. We trace our origins to the evangelistic activity of Thomas the Apostle in the 1st century.
 
-With a bible quote for good measure!
-
-> “For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son.”
-
-(John 3:16–18 NIV)
-
-And a map
-{{< loc.inline >}}{{ partial "map" . }}{{< /loc.inline >}}
+On October 15, 2020, His Excellency Mar Jacob Angadiath, the head of  Syro Malabar diocese of Chicago, appointed Rev. Fr. Mathews Munjanath as Mission Director. He served until May 2022. Starting May 2022, Fr. James Joseph is appointed as Mission Director and Pastor of the community.
