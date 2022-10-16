@@ -54,7 +54,7 @@ enableInlineShortcodes = true
 
   [[menu.main]]
     name = "Online Forms"
-    url = "/about"
+    url = "/online-forms"
     weight = 3
 
   [[menu.main]]
