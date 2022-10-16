@@ -3,7 +3,7 @@
 [banner]
 
   [[banner.button]]
-      url = "/contact"
+      url = "/announcements"
       text = "Announcements"
       type = "primary"
 
