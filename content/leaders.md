@@ -9,7 +9,7 @@ draft: false
 
 ---
 
-### Jacob Thomas
+### Binish Mathew
 #### Trustee & Pastoral Council Member
 
 ---
@@ -24,7 +24,7 @@ draft: false
 
 ---
 
-### Binish Mathew
+### Jacob Thomas
 #### Pastoral Council Member
 
 ---

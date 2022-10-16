@@ -7,4 +7,12 @@ tags: ""
 draft: false
 ---
 
+<div class="row">
+  <div class="col-6 col-12-mobilep">
+    <h3>Address</h3>
+    <p>
+8512 122nd Ave NE, Suite 227, Kirkland, WA</p>
+  </div>
+</div>
+
 {{< contact.inline >}}{{ partial "contact" . }}{{< /contact.inline >}}
