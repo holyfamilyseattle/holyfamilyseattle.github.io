@@ -10,6 +10,6 @@ title: "Announcements"
 
 3. Next month LFML meeting is scheduled on Nov 6th.
 
-4. Next week’s holy mass (October 23, 2022) is at 5 PM. Please fill up below forms for intentions/Oppis <a href="/online-forms">here</a>.
+4. Next week’s holy mass (October 23, 2022) is at 5 PM. Please fill up forms for intentions/Oppis <a href="/online-forms">here</a>.
 
 ---
