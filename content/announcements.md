@@ -6,17 +6,19 @@ title: "Announcements"
 ---
 1. We are excited to invite all students to "Hallowed 2022" as part of our "All Saints Day" celebrations on Sunday, Oct 30th after mass. Students are invited to register and participate in friendly contests and win some exciting prizes. Please register by Oct 25th 9PM PST.
  
-  a. Dress Up: All grades <a target="_blank" href="https://forms.gle/4F2vhK1MDwLfaU6Q9">Click Here</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Dress Up: All grades <a target="_blank" href="https://forms.gle/4F2vhK1MDwLfaU6Q9">Click Here</a>
 
-  b. Speech: Only grade 6 and above <a target="_blank" href="https://forms.gle/EuFbZbRyg5QYendV7">Click Here</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Speech: Only grade 6 and above <a target="_blank" href="https://forms.gle/EuFbZbRyg5QYendV7">Click Here</a>
 
-  c. Group Tableau: All grades <a target="_blank" href="https://forms.gle/idApRfpN1yFfDnC2A">Click here</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Group Tableau: All grades <a target="_blank" href="https://forms.gle/idApRfpN1yFfDnC2A">Click here</a>
 
 2. This year's Dei Verbum 2023 Parish Level Bible Quiz will be conducted on Sunday, December 4th, 2022. This online Quiz is open to all children and adults in our mission.
 
- To participate, please fill out enrollment form by Sunday, Nov 6th. 
- a. Please fill out the DRE <a target="_blank" href="https://forms.gle/K69yy6KhZWxFFKPN7" >Enrollment Form</a>
- b. Register on the <a target="_blank" href="https://candidate.speedexam.net/register.aspx?site=dvbq">Bible Quiz website</a> with the enrolled Email ID.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To participate, please fill out enrollment form by Sunday, Nov 6th. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Please fill out the DRE <a target="_blank" href="https://forms.gle/K69yy6KhZWxFFKPN7" >Enrollment Form</a>
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Register on the <a target="_blank" href="https://candidate.speedexam.net/register.aspx?site=dvbq">Bible Quiz website</a> with the enrolled Email ID.
 
 3. Next month LFML meeting is scheduled on Nov 6th.
 
