@@ -12,7 +12,7 @@ title: "Announcements"
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Register on the <a target="_blank" href="https://candidate.speedexam.net/register.aspx?site=dvbq">Bible Quiz website</a> with the enrolled Email ID.
 
-2. We had our first prayer meeting for Issaquah/Sammamish (St. Thomas) ward at 5:30 pm on 29th October, Saturday at  Jimmy Issac’s house led by Fr.James Joseph. It was well coordinated with 30 people(9 families) attending. Next ward meeting for Kent/Renton/Maple Valley ward is scheduled onNovember 12th. For any queries please reach out to Binish Mathew.
+2. We had our first prayer meeting for Issaquah/Sammamish (St. Thomas) ward at 5:30 pm on 29th October, Saturday at  Jimmy Issac’s house led by Fr.James Joseph. It was well coordinated with 30 people(9 families) attending. Next ward meeting for Kent/Renton/Maple Valley ward is scheduled on November 12th. For any queries please reach out to Binish Mathew.
 
 3. Next week’s holy mass (November 6, 2022) is at 5 PM. Please fill up forms for intentions and Oppis <a target="_blank" href="/online-forms">here</a>.
 
