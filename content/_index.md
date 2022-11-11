@@ -5,7 +5,12 @@
   [[banner.button]]
       url = "/announcements"
       text = "Announcements"
-      type = "primary"
+      type = "secondary"
+
+  [[banner.button]]
+      url = "/events"
+      text = "Events"
+      type = "secondary"
 
 #Details for the box below the banner
 [services]

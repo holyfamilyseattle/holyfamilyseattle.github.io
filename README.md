@@ -19,7 +19,13 @@ git submodule deinit alpha-church
 
 2. Delete alpha-church directory from themes
 
-3. Remove alpha-church directory recursively from .git repository
+3. Delete alpha-church from git cache
+
+```
+git rm --cached alpha-church
+```
+
+4. Remove alpha-church directory recursively from .git repository
 
 ```
 IT-MB5:themes q1440401$ pwd
@@ -27,7 +33,7 @@ IT-MB5:themes q1440401$ pwd
 IT-MB5:themes q1440401$ rm -rf alpha-church
 ```
 
-4. Add the theme back as sub-module
+5. Add the theme back as sub-module
 
 ```
 IT-MB5:themes ajith$ git submodule add https://github.com/holyfamilyseattle/alpha-church
