@@ -5,7 +5,7 @@ title: "Events"
 ### December 2022
 ---
 
-<img src="/img/xmas-celebration-2022.jpeg" width="600" height="800" >
+<img src="/img/xmas-celebration-2022.jpeg" width="600" max-width="100%" height="auto">
 
 Register by Nov 20th using the links below:
 
