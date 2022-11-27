@@ -12,6 +12,11 @@
       text = "Events"
       type = "secondary"
 
+  [[banner.button]]
+      url = "/donation"
+      text = "Donate"
+      type = "secondary"
+
 #Details for the box below the banner
 [services]
   title = "Weekly Mass"
