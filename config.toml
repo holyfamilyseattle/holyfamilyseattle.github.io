@@ -58,9 +58,14 @@ enableInlineShortcodes = true
     weight = 3
 
   [[menu.main]]
+    name = "Donate"
+    url = "/donation"
+    weight = 4
+
+  [[menu.main]]
     name = "Contact Us"
     url = "/contact"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Contact"
