@@ -2,16 +2,23 @@
 title: "Online Donation"
 ---
 
-Our Church has an online giving account through <a target="_blank" href="https://get.tithe.ly/">Tithe.ly</a>.  You can download their app from Apple's or Google's App stores.
+All donations and payments to Holy Family Syro Malabar Catholic Mission can now be made through <a target="_blank" href="https://get.tithe.ly/">Tithe.ly</a> which is built for churches and ministries to securely process your donations and payments.
 
-We also include a link to Tithe.ly here so you can donate to us through them.  
+<a target="_blank" href="https://get.tithe.ly/">Tithe.ly</a> will issue a year-end giving statement for all your online donations.
 
-They will issue a year-end giving statement for all your online donations. We won't need to issue a statement for gifts given through them.  
+Your donations are greatly appreciated and especially needed to support and maintain our ministries. Please prayerfully consider to make a recurring donation. Thank you.
 
-Just click the button, the rest should be self-explanatory.
+<style>
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
 
+<div class = "center">
 <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="6374327">Donate</button>
-
+</div>
 <script src="https://tithe.ly/widget/v3/give.js?3"></script>
 <script>
 var tw = create_tithely_widget();
