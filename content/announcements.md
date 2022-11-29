@@ -2,16 +2,26 @@
 title: "Announcements"
 ---
 
-### Nov 20th, 2022
+### Nov 27th, 2022
 ---
-1. We are excited to invite the community to Jingle Bells '22,  the annual Christmas Celebration organized by our Sunday School program on Sunday, Dec 11th 2022, at 3:30 PM. 
+1. Dei Verbum Parish level Bible quiz will be conducted on Sunday, December 4th. Registered candidates can start the Quiz on Speed Exam site anytime between 2.00 pm to 7.00 pm PST.
+
+2. Jingle Bells '22 is just 2 weeks away! An exciting evening with fun and festivities for the whole family. Our performers are practicing in full swing with enthusiasm and energy. Stay tuned for a Christmas Raffle with not to be missed prizes 🎁 
  
-We will begin the celebration with Holy mass, followed by cultural programs, fun activities and dinner. Please mark your calendar for Dec 11th and come join this fun celebration!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Come join the fun on Dec 11th at 3:30pm. Please RSVP with your food preferences(Veg/Non Veg)by Dec 4th : <a href="http://evite.me/fksXymNtCT " target="_blank">evite</a>
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‼️ New Location: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lake Washington United Methodist Church
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7525 132nd Ave NE
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kirkland, WA 98033
 
-2. The Ward Prayer meeting for Bellevue Redmond Kirkland area was conducted on 19th November, Saturday at the residence of Tom & Betty Chempananical. The Ward was christened as Ave Maria. Thanks to Father James, Hosting Family and all other Ward Members who attended this Ward Prayer meeting.
-The Ward Prayer meeting for the Bothell/Woodinville/Everett area was conducted on 19th November, Saturday at the residence of Jojo and Femy Challiserry. The Ward was christened as St.Joseph Ward. Thanks to Father James, Hosting Family and all other Ward Members who attended this Ward Prayer meeting. Next prayer meeting is scheduled in January.
+3. The LFML meeting on Dec 4th has been canceled. The next meeting will be on January 8th.
 
-3. Next week’s holy mass (Sunday November 27, 2022) is at 5 PM. We will have Eucharistic Adoration on the 3rd Sunday of the month at 4:30pm before Mass. Please fill up forms for intentions and Oppis <a target="_blank" href="/online-forms">here</a>.
+4. The signup for Carol 2022 was closed and we have 42 families who signed up for Carol Visits. Please note that the Ward Secretary or Representatives would reach out to the families for the Date/Time Slot coordination. For carol group logistics planning, please mark your availability through <a href="https://forms.gle/qXPZ4yXKFVCrDj1XA" target="_blank">form</a>
+
+5.  We have enabled provision for <a href="https://holyfamilyseattle.org/donation/" target="_blank">online donation</a>
+
+6. Next week’s holy mass (Sunday December 4th, 2022) is at 5 PM. Please fill up forms for intentions and Oppis <a target="_blank" href="/online-forms">here</a>.
 
 
 ---
