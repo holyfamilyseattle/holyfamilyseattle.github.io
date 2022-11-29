@@ -10,10 +10,10 @@ title: "Announcements"
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Come join the fun on Dec 11th at 3:30pm. Please RSVP with your food preferences(Veg/Non Veg)by Dec 4th : <a href="http://evite.me/fksXymNtCT " target="_blank">evite</a>
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‼️ New Location: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lake Washington United Methodist Church
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7525 132nd Ave NE
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kirkland, WA 98033
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>‼️ New Location:</b> <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lake Washington United Methodist Church <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7525 132nd Ave NE <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kirkland, WA 98033
 
 3. The LFML meeting on Dec 4th has been canceled. The next meeting will be on January 8th.
 
