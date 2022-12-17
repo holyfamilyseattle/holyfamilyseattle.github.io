@@ -35,7 +35,9 @@ IT-MB5:themes q1440401$ pwd
 IT-MB5:themes q1440401$ rm -rf alpha-church
 ```
 
-For Windows, go to the directory `/.git/modules/themes` and delete sub-directory `alpha-church`
+For Windows, 
+
+Go to the directory `holyfamilyseattle.github.io/.git/modules/themes` and delete sub-directory `alpha-church`
 
 5. Add the theme back as sub-module
 
