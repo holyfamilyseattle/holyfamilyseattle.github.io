@@ -27,11 +27,15 @@ git rm --cached alpha-church
 
 4. Remove alpha-church directory recursively from .git repository
 
+For Mac,
+
 ```
 IT-MB5:themes q1440401$ pwd
 /Users/ajith/IdeaProjects/holyfamilyseattle.github.io/.git/modules/themes
 IT-MB5:themes q1440401$ rm -rf alpha-church
 ```
+
+For Windows, go to the directory `/.git/modules/themes` and delete sub-directory `alpha-church`
 
 5. Add the theme back as sub-module
 
