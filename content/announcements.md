@@ -15,7 +15,7 @@ title: "Announcements"
 
 5. The diocesan LFML is organizing a family  Christmas crib making video contest - “Gloria in Excelsis” throughout the diocese. Sunday school students in grades 4 through 12 from the parishes or missions of the St Thomas Syro-Malabar Catholic Diocese of Chicago are eligible to attend. Each family can make a Christmas crib inside or on the grounds of their home and film the process. The best three videos from each Zone will be chosen and considered for diocesan-level selection. The winners will be honored at the diocesan level.  The deadline for submitting videos is December 29th.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More information about this competition will be sent to all Sunday School Families.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More information about this competition will be sent to all Sunday School Families.
 
 6. Next LFML meeting will be on Sunday, Jan 8th after holy mass.
 
