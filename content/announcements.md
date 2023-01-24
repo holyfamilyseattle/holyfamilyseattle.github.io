@@ -9,9 +9,9 @@ title: "Announcements"
 
 2. Sunday School is partnering with the outreach ministry to gather food and non-food items for donation to Tent City 4, a homeless encampment in Sammamish. We invite you to contribute individually or as a small group or class, preparing a hot dinner for the residents. For more information on how to prepare and drop off the dinner, please contact Anna Mathew (503-200-8516) or Betty Chempananical(347-679-9537). Non-food items can be dropped off between January 22nd and February 19th at the following locations:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bothell: 19220 25th Dr SE, Bothell, WA 98012
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issaquah: 24520 SE 45th St, Sammamish, WA 98029
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bellevue: 16450 SE 24th St, Bellevue, WA 98008
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bothell: 19220 25th Dr SE, Bothell, WA 98012 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issaquah: 24520 SE 45th St, Sammamish, WA 98029 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bellevue: 16450 SE 24th St, Bellevue, WA 98008 <br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acceptable non-perishable items include blankets, AA, AAA, and D batteries, flashlights, hand warmers, coffee, tea, cream, sugar, and canned & packaged food. Sunday school students, when you drop off items, please write your grade with a marker on the item (example: 1A, 3B, etc.). Grade 10 students will track which class collects the most items and have planned a surprise for that class. All other donations do not need to be marked. We greatly appreciate your support for this donation drive.
 
