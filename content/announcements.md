@@ -5,14 +5,19 @@ title: "Announcements"
 ### JAN 22nd, 2023
 ---
 
-1. As announced earlier, we will have in-person classes downstairs in the middle level next Sunday at 4:10pm for 4th to 12th grade classes. The rest of the students will have online class in the morning at 9am. Parents, please bring your children between 4-4:10pm so that we can start on time. Once you drop off your child, please wait outside or in the sanctuary. The teachers will bring the students back to the sanctuary at 4:55pm.
+1. As previously announced, the 4th to 12th grade classes will be held in-person downstairs in the middle level next Sunday at 4:10pm. The remaining students will have online classes in the morning at 9am. Parents, please bring your children to the location between 4-4:10pm so that we can begin on time. After dropping off your child, please wait outside or in the sanctuary. The teachers will return the students to the sanctuary at 4:55pm.
 
-2. We are partnering with the outreach ministry to collect food and non food items to donate to Tent City 4 which is a homeless encampment in Sammamish. We encourage you individually or as a small group or as a class to consider preparing a hot dinner for the residents. Please contact Anna Mathew or Betty Chempananical for more details on preparing and dropping off the dinner. Non food items can be dropped off between Jan 22nd-Feb 19th on Sundays at church or during the week at 3 drop off locations at Bellevue, Bothell and Issaquah. The list of most wanted items and drop off locations is posted on our whatsapp group and FB page. We request your wholehearted support for this donation drive.
-Sunday school students, when you drop off items, please write your grade with a marker on the item example 1A, 3B etc. Grade 10 students will track which class collects the most  items and they have planned a surprise for that class. All other donations do not need to be marked.
+2. Sunday School is partnering with the outreach ministry to gather food and non-food items for donation to Tent City 4, a homeless encampment in Sammamish. We invite you to contribute individually or as a small group or class, preparing a hot dinner for the residents. For more information on how to prepare and drop off the dinner, please contact Anna Mathew (503-200-8516) or Betty Chempananical(347-679-9537). Non-food items can be dropped off between January 22nd and February 19th at the following locations:
 
-3. The next general body meeting is scheduled for January 29th, 2023 following holy mass. Attendance is mandatory. The agenda for the meeting includes reviewing significant events from 2022 and presenting an overview of income and expenses.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bothell: 19220 25th Dr SE, Bothell, WA 98012
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issaquah: 24520 SE 45th St, Sammamish, WA 98029
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bellevue: 16450 SE 24th St, Bellevue, WA 98008
 
-4. We have enabled provision for <a href="https://holyfamilyseattle.org/donation/" target="_blank">online donation</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acceptable non-perishable items include blankets, AA, AAA, and D batteries, flashlights, hand warmers, coffee, tea, cream, sugar, and canned & packaged food. Sunday school students, when you drop off items, please write your grade with a marker on the item (example: 1A, 3B, etc.). Grade 10 students will track which class collects the most items and have planned a surprise for that class. All other donations do not need to be marked. We greatly appreciate your support for this donation drive.
+
+3. The next general body meeting is set for January 29th, 2023, directly following holy mass. Attendance is mandatory. The meeting agenda includes a review of significant events from 2022 and a presentation of an overview of income and expenses.
+
+4. The Holy Family Syro Malabar Catholic Mission now has the option for online donations through <a href="https://holyfamilyseattle.org/donation/" target="_blank">online donation</a>. We kindly ask that you prayerfully consider setting up recurring donations to support the church's activities. If you have any questions or concerns, please reach out to any of the trustees.
 
 5. Next week’s holy mass (January 29th Sunday, 2023) is at 5PM and the venue is at Christ the King Lutheran Church. (https://goo.gl/maps/zcVAGcsD3jCAhs5y9).
 
