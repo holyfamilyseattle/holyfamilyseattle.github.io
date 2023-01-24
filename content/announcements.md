@@ -2,25 +2,18 @@
 title: "Announcements"
 ---
 
-### Dec 24th, 2022
+### JAN 22nd, 2023
 ---
 
-1. On behalf of everyone, thank you to Fr. Akhil Thomas who came down from San Bernardino, CA yesterday and celebrated mass with us and thank you all for being part of this celebration.
+1. As announced earlier, we will have in-person classes downstairs in the middle level next Sunday at 4:10pm for 4th to 12th grade classes. The rest of the students will have online class in the morning at 9am. Parents, please bring your children between 4-4:10pm so that we can start on time. Once you drop off your child, please wait outside or in the sanctuary. The teachers will bring the students back to the sanctuary at 4:55pm.
 
-2. We will have winter break during the next two weeks and resume classes on January 8th.
+2. We are partnering with the outreach ministry to collect food and non food items to donate to Tent City 4 which is a homeless encampment in Sammamish. We encourage you individually or as a small group or as a class to consider preparing a hot dinner for the residents. Please contact Anna Mathew or Betty Chempananical for more details on preparing and dropping off the dinner. Non food items can be dropped off between Jan 22nd-Feb 19th on Sundays at church or during the week at 3 drop off locations at Bellevue, Bothell and Issaquah. The list of most wanted items and drop off locations is posted on our whatsapp group and FB page. We request your wholehearted support for this donation drive.
+Sunday school students, when you drop off items, please write your grade with a marker on the item example 1A, 3B etc. Grade 10 students will track which class collects the most  items and they have planned a surprise for that class. All other donations do not need to be marked.
 
-3. We are planning to conduct in-person classes once a month starting in January. Schedule will be sent in early January.
+3. The next general body meeting is scheduled for January 29th, 2023 following holy mass. Attendance is mandatory. The agenda for the meeting includes reviewing significant events from 2022 and presenting an overview of income and expenses.
 
-4. First Semester Exam will be conducted online on January 15th at 9am.
+4. We have enabled provision for <a href="https://holyfamilyseattle.org/donation/" target="_blank">online donation</a>
 
-5. The diocesan LFML is organizing a family  Christmas crib making video contest - “Gloria in Excelsis” throughout the diocese. Sunday school students in grades 4 through 12 from the parishes or missions of the St Thomas Syro-Malabar Catholic Diocese of Chicago are eligible to attend. Each family can make a Christmas crib inside or on the grounds of their home and film the process. The best three videos from each Zone will be chosen and considered for diocesan-level selection. The winners will be honored at the diocesan level.  The deadline for submitting videos is December 29th.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More information about this competition will be sent to all Sunday School Families.
-
-6. Next LFML meeting will be on Sunday, Jan 8th after holy mass.
-
-7. We have enabled provision for <a href="https://holyfamilyseattle.org/donation/" target="_blank">online donation</a>
-
-8. Next week’s holy mass (January 1st Sunday, 2023) is at 5PM and the venue is at Christ the King Lutheran Church. (https://goo.gl/maps/zcVAGcsD3jCAhs5y9).
+5. Next week’s holy mass (January 29th Sunday, 2023) is at 5PM and the venue is at Christ the King Lutheran Church. (https://goo.gl/maps/zcVAGcsD3jCAhs5y9).
 
 ---
