@@ -8,10 +8,11 @@ title: "Announcements"
 1. We are starting the Holy Childhood Association (Thirubalasakyam) in our mission for children in KG to those who have not received Holy Communion. This is a stepping stone to becoming a Little Flower Mission League (LFML) member after they receive Holy Communion. More information and Registration form is posted on our Whatsapp group and Facebook page. Please register by Feb 28th.
 
 2. The Mar Thoma Theological Institute is inviting you to join a 2 year Diploma in Theology online course starting on Feb 26th offered for the West Coast region.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class is conducted once a month for 90 minutes on Sundays at 7pm PST and an exam on that topic is conducted via Google form 2 weeks later.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost of enrollment is $100/semester.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please register with DRE by February 21st. Contact (347) 679 9537.<br/>
+<ul>
+<li>📚 Class is conducted once a month for 90 minutes on Sundays at 7pm PST and an exam on that topic is conducted via Google form 2 weeks later.</li>
+<li>📚 Cost of enrollment is $100/semester.</li>
+<li>📚 Please register with DRE by February 21st. Contact (347) 679 9537.</li>
+</ul>
 
 3. Next Sunday, we will have an online catechism class at 9am and an in-person 'Way of the cross' led by students from all grades. We request students to arrive at church by 4:15pm.
 
