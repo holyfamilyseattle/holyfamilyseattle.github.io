@@ -2,7 +2,7 @@
 title: "Announcements"
 ---
 
-### Feb 26th, 2023
+### Mar 12th, 2023
 ---
 
 1. We are excited to announce the winning class of the Tent City 4 donation drive. Congratulations "6th" Grade, you have won the pizza party which will be organized by the 10th graders. The date and time of the party will be announced soon.
