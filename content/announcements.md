@@ -5,7 +5,7 @@ title: "Announcements"
 ### Mar 17th, 2023
 ---
 
-Announcements:
+# Announcements:
 
 1. The lenten retreat was a resounding success, thanks to the efforts by the various ministries
 and volunteers. Rev. Fr. Mejo Paulson provided insightful guidance and reflections,
@@ -31,4 +31,13 @@ If you have any questions or concerns, please reach out to any of the trustees.
 
 4. Next week’s holy mass (March 26th Sunday, 2023) is at 5PM and the venue is at
 Christ the King Lutheran Church (https://goo.gl/maps/zcVAGcsD3jCAhs5y9).
+
+## Sunday School Announcements
+
+1. Next Sunday(Mar 26th), Fr. James Joseph will be inaugurating the Holy Childhood Association (Thirubalasakyam) for children in KG to those who have not received Holy Communion as an additional opportunity to grow in faith. This is a stepping stone to becoming a Little Flower Mission League (LFML) member after they receive Holy Communion. Amitha Mathew and Julin Jose will be the co-ordinators for HCA. Please reach out to them with questions.
+
+2. A chapter of DYA(Diocesan Youth Apostolate) is forming in our mission and we invite youth in High School and beyond to join. Please reach out to DYA coordinator, Jees Jacob to know more about this group. 
+
+3.Next week, KG-3rd grades will have online catechism classes at 9am and 4th-12th grades will have in-person classes at Christ the King at 4:10pm.
+
 ---
