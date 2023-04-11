@@ -2,7 +2,7 @@
 title: "Announcements"
 ---
 
-### April 2nd, 2023
+### April 8th, 2023
 ---
 
 # Announcements:
@@ -21,6 +21,6 @@ title: "Announcements"
    
 4. The Holy Family Syro Malabar Catholic Mission now has the option for <a target="_blank" href="https://holyfamilyseattle.org/donation/">online donations</a>. We kindly ask that you prayerfully consider setting up recurring donations to support the church's activities. If you have any questions or concerns, please reach out to any of the trustees.
 	
-5. Next week’s Easter Mass (April 16th Sunday, 2023) is at 5:00 PM and the venue is Christ the King Lutheran Church (https://goo.gl/maps/zcVAGcsD3jCAhs5y9)
+5. Next week’s Mass (April 16th Sunday, 2023) is at 5:00 PM and the venue is Christ the King Lutheran Church (https://goo.gl/maps/zcVAGcsD3jCAhs5y9)
 
 ---
