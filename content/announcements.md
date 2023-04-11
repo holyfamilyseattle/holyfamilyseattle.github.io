@@ -9,7 +9,7 @@ title: "Announcements"
 
 1. We will not have catechism classes on April 9th & April 16th. We wish all the students and families a wonderful Easter and spring break.
 
-2. DYA is building the team actively. Please reach out to Jees Jacob if you are interested and 8th grade and above.
+2. April 16th Sunday is “Puthen Njayar” and feast of Divine Mercy. We will have Adoration starting at 4:30pm with Divine Mercy Chaplet. This will be led by St Thomas Ward.
    
 3. Holy Family Mission's *Altar Service Ministry* is inviting signups from students( Girls and Boys) in Grade 6 and above to be Altar Servers for Holy Mass/other Church Services. There will be training & practice sessions for the new members in both English & Malayalam.
 
@@ -19,10 +19,8 @@ title: "Announcements"
 	<li>For questions, please contact the ministry leads, Jees Jacob (@ 949-397-7696) & Minta Thomas (@ 206-693-1834)</li>
 </ul>
    
-4. We are grateful to announce that Fr. James Joseph will be officiating the Easter Mass celebrations. We warmly invite everyone to join us for this blessed occasion and request that you please <a target="_blank" href="http://evite.me/487fcgPmhm">RSVP</a> so that we can make the necessary arrangements for logistics and planning. 
-
-5. The Holy Family Syro Malabar Catholic Mission now has the option for <a target="_blank" href="https://holyfamilyseattle.org/donation/">online donations</a>. We kindly ask that you prayerfully consider setting up recurring donations to support the church's activities. If you have any questions or concerns, please reach out to any of the trustees.
+4. The Holy Family Syro Malabar Catholic Mission now has the option for <a target="_blank" href="https://holyfamilyseattle.org/donation/">online donations</a>. We kindly ask that you prayerfully consider setting up recurring donations to support the church's activities. If you have any questions or concerns, please reach out to any of the trustees.
 	
-6. Next week’s Easter Mass (April 8th Saturday, 2023) is at 4.30 PM and the venue is Christ the King Lutheran Church (https://goo.gl/maps/zcVAGcsD3jCAhs5y9)
+5. Next week’s Easter Mass (April 16th Sunday, 2023) is at 5:00 PM and the venue is Christ the King Lutheran Church (https://goo.gl/maps/zcVAGcsD3jCAhs5y9)
 
 ---
