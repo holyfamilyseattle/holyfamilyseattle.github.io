@@ -2,7 +2,7 @@
 title: "Announcements"
 ---
 
-### June 4th, 2023
+### June 11th, 2023
 ---
 
 ### Announcements from Sunday School
