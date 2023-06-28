@@ -9,17 +9,13 @@ title: "Announcements"
 
 1. Registration is now open for Catechism classes for the year 2023-24. Catechism classes are available for students in KG-12th grade. All children who participated in Catechism classes this year should be registered again for the upcoming school year. Please register your child by  June 30th so that we have sufficient time to plan and organize the classes and place textbook orders. We also request your support for our children's Faith Formation by donating $150/child or $300/family. Details on how to make this donation is available on the <b><a target="_blank" href="https://forms.gle/yACwh84g6i22LJWYA">form</a></b>.
 
-2. Students who have not picked up your grade completion certificate, please pick them up in the Narthex after mass.
-
 ### General Announcements
 
 1. The Ward Based Ministry Assistance for Holy Mass for 2nd July, will be coordinated by Saint Joseph’s Ward (Bothel, Woodinville, Everett, Mill Creek).
 
-2. We are delighted to remind you that the Shalom 2023 Retreat will be held in Portland, Oregon on July 21, 22 & 23. We warmly welcome you to join us in this blessed event. To confirm your attendance, kindly RSVP and for any additional information, please reach out to Minta Thomas.
+2. We are delighted to remind you that the Shalom 2023 Retreat will be held in Portland, Oregon on July 21, 22 & 23. We warmly welcome you to join us in this blessed event. To confirm your attendance, kindly RSVP (https://forms.gle/qRuwDhpVgtC47q7Z8) and for any additional information, please reach out to Minta Thomas.
 
 3. Food & Fellowship Ministry had organized a Food Mela as part of CCD Sports Day and a Dessert Corner as part of Harvest Festival.
-
-    - We are happy to inform our community that Food Mela raised $3,091.00 and Harvest Festival Raised $914.50 from the sales proceeds.
 
     - Thanking all our community members for their generous payments and support for the above programs. Kindly watch out for more such events from Food & Fellowship             Ministry, in support of fundraisers for our community
 
