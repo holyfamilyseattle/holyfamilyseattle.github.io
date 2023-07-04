@@ -8,6 +8,7 @@ title: "Announcements"
 ### Announcements from Sunday School
 
 1. The LFML meeting will be conducted next Sunday after Holy Mass in the Sanctuary.
+   
 
 ### General Announcements
 
