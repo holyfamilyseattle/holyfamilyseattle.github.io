@@ -51,21 +51,26 @@ enableInlineShortcodes = true
     url = "/parish-on-net"
     parent = "About Us"
     weight = 3
-
+  
+  [[menu.main]]
+    name = "Events"
+    url = "/events"
+    weight = 3
+    
   [[menu.main]]
     name = "Online Forms"
     url = "/online-forms"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Donate"
     url = "/donation"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Contact Us"
     url = "/contact"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "Contact"
