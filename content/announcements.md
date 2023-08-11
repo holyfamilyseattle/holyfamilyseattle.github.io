@@ -2,7 +2,7 @@
 title: "Announcements"
 ---
 
-### July 30th, 2023
+### August 6th, 2023
 ---
 
 ### Announcement from Altar Guild and Liturgical Ministries
