@@ -13,9 +13,9 @@ title: "Announcements"
 
 2. On Sept 10th, the feast celebrations will begin with Rosary and Procession at 4:15pm. After Rosary, we will celebrate Holy Qurbana which will be followed by Dinner for all.
 
-  If you haven’t already, kindly respond to the evite for Dinner that is shared in our WhatsApp group. This will help the Food ministry in planning. 
+     If you haven’t already, kindly respond to the evite for Dinner that is shared in our WhatsApp group. This will help the Food ministry in planning. 
 
-  For our Feast celebrations on Sept 10th, we invite all children to bring a flower for Mother Mary from your home. There will be a children’s procession to offer flowers after Rosary.
+     For our Feast celebrations on Sept 10th, we invite all children to bring a flower for Mother Mary from your home. There will be a children’s procession to offer flowers after Rosary.
 
 
 ### Announcements from Sunday SChool
@@ -27,8 +27,10 @@ title: "Announcements"
 3. All families interested in First Holy Communion and Confirmation Preparation classes should register their children by September 15th. Classes will be conducted in-person on the first Sunday  of the month from October-April.
 
 4. As part of Holy Family Mission's Safe Environment program as mandated by USCCB our Diocese, we are conducting a 3 hour online training, "Protecting God's children" on Saturday, September 30th, 2023 at 10:00am-1:00pm on Zoom.
-  This is training for Adults who are older than 18 years who wish to serve as volunteers in our mission activities that involve children, Catechism teachers and parents.
-  Please register for this training by September 24th 2023.
+
+     This is training for Adults who are older than 18 years who wish to serve as volunteers in our mission activities that involve children, Catechism teachers and parents.
+
+     Please register for this training by September 24th 2023.
 
 ### General Announcements
 
