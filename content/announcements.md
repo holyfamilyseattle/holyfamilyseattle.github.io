@@ -25,6 +25,8 @@ title: "Announcements"
 2. This year we are planning to conduct "Ezhuthiniruthe" ceremony for children ages 4 to 6 during the CCD inauguration on September 17th. All children who are starting school this year are encouraged to join even if they have not started CCD. Registration is not required. For more details please contact Betty, Sajay or Tom.
 
 3. All families interested in First Holy Communion and Confirmation Preparation classes should register their children by September 15th. Classes will be conducted in-person on the first Sunday  of the month from October-April.
+      Registration Link:
+      https://forms.gle/7ELLnSWZgj7hgTmb8
 
 4. As part of Holy Family Mission's Safe Environment program as mandated by USCCB our Diocese, we are conducting a 3 hour online training, "Protecting God's children" on Saturday, September 30th, 2023 at 10:00am-1:00pm on Zoom.
 
