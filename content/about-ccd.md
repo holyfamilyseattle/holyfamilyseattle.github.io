@@ -22,7 +22,7 @@ We envisage to motivate our young ones to Learn, Love, Live and Proclaim Jesus, 
 * To form spiritually, morally, emotionally, socially, mature disciples of the Lord
 * To help persons to live a counter-cultural life of witnessing
 
-Along with the above tasks, the C.C.D. also aims at fulfilling the following tasks of catechesis:
+Along with the above tasks, the CCD also aims at fulfilling the following tasks of catechesis:
 
 * Providing the proper Knowledge of Faith
 * Liturgical Formation
