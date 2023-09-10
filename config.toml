@@ -53,19 +53,42 @@ enableInlineShortcodes = true
     weight = 3
 
   [[menu.main]]
+    name = "Faith Formation"
+    url = "/about-ccd"
+    weight = 3
+
+  [[menu.main]]
+    name = "About CCD"
+    url = "/about-ccd"
+    parent = "Faith Formation"
+    weight = 1
+
+  [[menu.main]]
+    name = "CCD Guidelines"
+    url = "/ccd-guidelines"
+    parent = "Faith Formation"
+    weight = 2
+
+  [[menu.main]]
+    name = "CCD Associations"
+    url = "/ccd-associations"
+    parent = "Faith Formation"
+    weight = 3
+
+  [[menu.main]]
     name = "Online Forms"
     url = "/online-forms"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Donate"
     url = "/donation"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Contact Us"
     url = "/contact"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "Contact"
