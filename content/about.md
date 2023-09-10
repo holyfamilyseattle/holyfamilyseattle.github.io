@@ -2,6 +2,7 @@
 title: "About Us"
 date: 2018-04-30T10:05:49+10:00
 draft: false
+images: ["img/holy-family.jpg"]
 ---
 
 Holy Family Syro Malabar Catholic Mission, is made up of vibrant, faithful people who serve our Mission and community in numerous ways – from worship, religious education and formation, sacramental preparation and spiritual development, to community outreach and social activities. We strive to be a welcoming community that reflects the heart, mercy and teachings of Christ, under the obedience of the Roman Catholic Church through the tradition of the Syro Malabar Rite. We pray you find, Holy Family Syro Malabar Catholic Mission to be a warm and welcoming place where you can deepen your faith by being a part of our Mission.
