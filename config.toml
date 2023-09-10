@@ -51,7 +51,12 @@ enableInlineShortcodes = true
     url = "/parish-on-net"
     parent = "About Us"
     weight = 3
-
+  
+  [[menu.main]]
+    name = "Events"
+    url = "/events"
+    weight = 3
+    
   [[menu.main]]
     name = "Faith Formation"
     url = "/about-ccd"
