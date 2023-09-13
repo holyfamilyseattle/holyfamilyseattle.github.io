@@ -2,6 +2,7 @@
 title: "About CCD"
 date: 2021-09-10
 draft: false
+images: ["img/jesus-with-children.jpg"]
 ---
 
 ### Motto
