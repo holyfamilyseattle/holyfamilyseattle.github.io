@@ -81,6 +81,12 @@ enableInlineShortcodes = true
     weight = 3
 
   [[menu.main]]
+    name = "CCD Team"
+    url = "/ccd-team"
+    parent = "Faith Formation"
+    weight = 1
+
+  [[menu.main]]
     name = "Online Forms"
     url = "/online-forms"
     weight = 4
