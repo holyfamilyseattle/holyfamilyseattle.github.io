@@ -87,6 +87,29 @@ enableInlineShortcodes = true
     weight = 4
 
   [[menu.main]]
+    name = "Resources"
+    parent = "Faith Formation"
+    weight = 5
+
+  [[menu.main]]
+    name = "CCD Registration"
+    url = "https://forms.gle/yACwh84g6i22LJWYA"
+    parent = "Resources"
+    weight = 1
+
+  [[menu.main]]
+    name = "CCD Handbook"
+    url = "https://drive.google.com/file/d/1g6-FvRjDButCrnB8MEN_gZmWBt-YxTNJ/view"
+    parent = "Resources"
+    weight = 2
+
+  [[menu.main]]
+    name = "CCD Calendar"
+    url = "https://drive.google.com/file/d/1VO-YwsI_vf5WddZP_nYJvIo9xnt6_CLf/view"
+    parent = "Resources"
+    weight = 3
+
+  [[menu.main]]
     name = "Online Forms"
     url = "/online-forms"
     weight = 4
