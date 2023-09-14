@@ -105,9 +105,15 @@ enableInlineShortcodes = true
 
   [[menu.main]]
     name = "CCD Calendar"
-    url = "https://drive.google.com/file/d/1VO-YwsI_vf5WddZP_nYJvIo9xnt6_CLf/view"
+    url = "/calendar"
     parent = "Resources"
     weight = 3
+
+  [[menu.main]]
+    name = "Annual Calendar"
+    url = "https://drive.google.com/file/d/1VO-YwsI_vf5WddZP_nYJvIo9xnt6_CLf/view"
+    parent = "Resources"
+    weight = 4
 
   [[menu.main]]
     name = "Online Forms"
