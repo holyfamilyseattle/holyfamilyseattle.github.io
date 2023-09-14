@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Holy Family Syro Malabar Catholic Mission"
 theme = "alpha-church"
 
+rssLimit = 5
+paginate = 4
+enableInlineShortcodes = true
+
 [markup.goldmark.renderer]
   unsafe = true
 
