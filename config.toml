@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Holy Family Syro Malabar Catholic Mission"
 theme = "alpha-church"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 #This theme can generate a multi-level menu.
 #Use weight= to specify the order of menu items, and parent= to create a submenu item.
 [menu]
