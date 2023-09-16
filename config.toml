@@ -48,51 +48,53 @@ theme = "alpha-church"
     weight = 3
 
   [[menu.main]]
+    name = "CCD Calendar"
+    url = "/calendar"
+    parent = "Faith Formation"
+    weight = 1
+
+  [[menu.main]]
     name = "About CCD"
     url = "/about-ccd"
     parent = "Faith Formation"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     name = "CCD Team"
     url = "/ccd-team"
     parent = "Faith Formation"
-    weight = 2  
+    weight = 3  
 
   [[menu.main]]
     name = "CCD Guidelines"
     url = "/ccd-guidelines"
     parent = "Faith Formation"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "CCD Associations"
     url = "/ccd-associations"
     parent = "Faith Formation"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Resources"
     parent = "Faith Formation"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "CCD Registration"
     url = "https://forms.gle/yACwh84g6i22LJWYA"
+    hrefTargetBlank = true
     parent = "Resources"
     weight = 1
 
   [[menu.main]]
     name = "CCD Handbook"
     url = "https://drive.google.com/file/d/1g6-FvRjDButCrnB8MEN_gZmWBt-YxTNJ/view"
+    hrefTargetBlank = true
     parent = "Resources"
     weight = 2
-
-  [[menu.main]]
-    name = "CCD Calendar"
-    url = "/calendar"
-    parent = "Resources"
-    weight = 3
 
   [[menu.main]]
     name = "Online Forms"
