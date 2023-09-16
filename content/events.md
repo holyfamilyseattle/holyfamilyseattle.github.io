@@ -5,8 +5,8 @@ title: "Events"
 ### September 2023
 ---
 
-<img src="/img/ezhuthiniruth-2023.jpeg" width="600" width="100%" height="auto">
-
+<img src="/img/ezhuthiniruth-2023.jpeg" width="200" width="100%" height="auto">
+<img src="/img/CCD-2023-24-Inauguration.png" width="200" width="100%" height="auto">
 ---
 
 <div>
