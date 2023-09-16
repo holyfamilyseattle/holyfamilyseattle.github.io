@@ -12,7 +12,6 @@ title: "Events"
 <div>
     <h3>Events Calendar</h3>
     <div class="container-iframe">
-        <iframe class="responsive-iframe" src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=Y181OGFkM2FiNzMxM2U4OTRkZWYxMDFjNmE2MjNhZDBjYTE2N2QxMmU5NmVlZTUxYzdjMmVlY2VjNDU4NjcyMzc5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%2333B679&color=%23009688" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <iframe class="responsive-iframe" src="https://calendar.google.com/calendar/embed?src=c21jc2VhdHRsZS50cnVzdGVlc0BnbWFpbC5jb20&src=Y181OGFkM2FiNzMxM2U4OTRkZWYxMDFjNmE2MjNhZDBjYTE2N2QxMmU5NmVlZTUxYzdjMmVlY2VjNDU4NjcyMzc5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" width="800" height="600" frameborder="0" scrolling="no"></iframe>
     </div>
-
 </div>
