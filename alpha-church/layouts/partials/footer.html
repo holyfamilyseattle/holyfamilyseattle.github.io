@@ -1,0 +1,18 @@
+{{ "<!-- Footer -->" | safeHTML}}
+  <footer id="footer">
+    <ul class="icons">
+      {{ range .Site.Params.links }}
+      {{ $pack := or .icon_pack "fa" }}
+        <li>
+          <a href="{{ .link | safeURL }}" target="_blank" aria-label="{{ .service }}"><i class="icon {{ $pack }} {{ .icon }}"><span class="label">{{ .service }}</span></i></a>
+        </li>
+      {{ end }} {{/* range */}}
+    </ul>
+    <ul class="copyright">
+      {{- range .Site.Params.Footer.copyright -}}
+      <li>{{ . | markdownify }}</li>
+      {{- end -}}
+    </ul>
+  </footer>
+
+</div>
