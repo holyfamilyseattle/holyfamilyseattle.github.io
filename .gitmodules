@@ -4,3 +4,6 @@
 [submodule "alpha-church"]
 	path = alpha-church
 	url = https://github.com/holyfamilyseattle/alpha-church
+[submodule "themes/alpha-church"]
+	path = themes/alpha-church
+	url = https://github.com/holyfamilyseattle/alpha-church
