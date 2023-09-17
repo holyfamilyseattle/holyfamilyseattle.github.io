@@ -1,7 +1,3 @@
-
-[submodule "themes/alpha-church"]
-	path = themes/alpha-church
-	url = https://github.com/holyfamilyseattle/alpha-church
 [submodule "themes/holyfamilyseattle.github.io"]
 	path = themes/holyfamilyseattle.github.io
 	url = https://github.com/holyfamilyseattle/holyfamilyseattle.github.io
