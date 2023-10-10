@@ -78,9 +78,15 @@ theme = "alpha-church"
     weight = 5
 
   [[menu.main]]
-    name = "Resources"
+    name = "CCD Theme 2023-24"
+    url = "/ccd-theme"
     parent = "Faith Formation"
     weight = 6
+
+  [[menu.main]]
+    name = "Resources"
+    parent = "Faith Formation"
+    weight = 7
 
   [[menu.main]]
     name = "CCD Registration"
