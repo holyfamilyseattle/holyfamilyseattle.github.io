@@ -2,21 +2,30 @@
 title: "Announcements"
 ---
 
-### September 24th, 2023
+### Oct 8th, 2023
 ---
 
 ### Announcements from Sunday School
 
-1. **CML/ Cherupushpa Mission League** is inviting children in 4th grade or higher who have received their First Holy Communion to join. Children will have opportunities to develop and improve their organizational and leadership skills. CML also helps foster missionary mentality among its members. Children previously enrolled do not need to register again.
+1. It's time to register for our much awaited CCD camp!
 
-Please register by** September 29, 2023**: https://docs.google.com/forms/d/e/1FAIpQLScnD6u5TmCtNrplPReS6m4vln9_aWyIFw01DIMvQxIiQ2hwPQ/viewform?usp=sf_link
+   **When**:
+ KG-5th Grade: Saturday, Oct 21st from 9.00AM to 4.00PM  ( one day camp)
+ 6th -11th Grade : Saturday, Oct 21st from 9.00AM to Sunday, October 22nd 4.00PM  (2 day camp, including overnight stay) 
 
-3. Next Sunday, we will be celebrating **CML day** with Holy Qurbana followed by a meeting to select office bearers for the year 2023-24. All CML members are requested to attend. New members will be inducted in a short ceremony after mass.
+   **Where**: Camp Don Bosco, Carnation WA
+ Register by **Oct 15th**: https://forms.gle/hCSYZVkwhTJdUavz5
+
+2. A gentle reminder to families who are yet to pay $150 to cover CCD expenses.  You can make this payment by cash or check made out to HFSMCM or donate through our online portal: 
+https://holyfamilyseattle.org/donation/
+3. First Holy Communion and Confirmation Preparation class will be conducted next Sunday at 4pm in the fellowship hall.
    
 ### General Announcements
 
 1. The Holy Family Syro Malabar Catholic Mission now has the option for <a target="_blank" href="https://holyfamilyseattle.org/donation/">online donations</a>. We kindly ask that you prayerfully consider setting up recurring donations to support the church's activities. If you have any questions or concerns, please reach out to any of the trustees.
-2. The Ward Based Ministry Assistance for Holy Mass for October 1st will be coordinated by Ave Maria Ward (Bellevue, Redmond, Kirkland)
-3. Next week’s holy mass **(October 1st Sunday, 2023) is at 5 PM** and the venue is at Christ the King Lutheran Church (https://goo.gl/maps/zcVAGcsD3jCAhs5y9)
+2. The Ward Based Ministry Assistance for Holy Mass for 15th October, will be coordinated by St.Alphonsa ward.
+3. Next week’s holy mass **(October 15th Sunday, 2023) is at 5 PM** and the venue is at Christ the King Lutheran Church (https://goo.gl/maps/zcVAGcsD3jCAhs5y9)
+4. Please note we will have the Holy Mass at the Camp Don Bosco on October 22nd as we have the Youth Camp going on there.
+5. Our Annual Calendar is already available in our Mission Website and in addition, we will be publishing a Physical paper based Annual Calendar for 2024, for which Advertisement space is available, please reach out to Trustees for more details.
 
 ---
