@@ -12,10 +12,10 @@ Contact: Amitha Mathew, Julin Jose
 
 ---
 
-### Little Flower Mission League (LFML)
+### Cherupushpa Mission League (CML)
 
-LFML is the largest organization of the catholic laity and aims to foster mission spirit, promote the vocation of religious life and the vocation of marriage, and facilitate spiritual and personality development. LFML’s motto is to instill the value of love, sacrifice, service and suffering.  
-CCD students in grades 4 - 12 who have received the Holy Communion are welcome to join LFML.
+CML is the largest organization of the catholic laity and aims to foster mission spirit, promote the vocation of religious life and the vocation of marriage, and facilitate spiritual and personality development. LFML’s motto is to instill the value of love, sacrifice, service and suffering.  
+CCD students in grades 4 - 12 who have received the Holy Communion are welcome to join CML.
 
 Contact: Nikhila Rose, Joseph John, Mejo Cherian
 
