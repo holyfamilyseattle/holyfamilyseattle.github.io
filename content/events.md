@@ -9,6 +9,12 @@ title: "Events"
 
 ---
 
+### November 2023
+
+<img src="/img/asd-2023.png" width="600" width="100%" height="auto">
+
+---
+
 <div>
     <h3>Events Calendar</h3>
     <div class="container-iframe">
