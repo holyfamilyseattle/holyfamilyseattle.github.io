@@ -2,7 +2,7 @@
 title: "Announcements"
 ---
 
-### Oct 8th, 2023
+### Oct 15th, 2023
 ---
 
 ### Announcements from Sunday School
