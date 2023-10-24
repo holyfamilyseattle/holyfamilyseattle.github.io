@@ -2,13 +2,6 @@
 title: "Events"
 ---
 
-### October 2023
----
-
-<img src="/img/unite2023.jpeg" width="600" width="100%" height="auto"> 
-
----
-
 ### November 2023
 
 <img src="/img/asd-2023.png" width="600" width="100%" height="auto">
