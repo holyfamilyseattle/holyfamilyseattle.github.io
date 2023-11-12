@@ -56,7 +56,7 @@ Participants: Rachel Maria Thomas, Evelyn Miriam Charles, Ivan Jacob Philip, Eri
 
 <img src="/img/AllSaintsDay2023Winners/d1bc67e0-0afd-4878-b3d3-b794084ba964.jpeg" width="600" width="100%" height="auto">
 <br>
-Transfiguration
+Transfiguration</p>
 Participants: Jubal James, Ryan Thomas, Einar Sheen, Ebner Sheen, Daniel Mannanchery, Jude Mannanchery</p>
 
 ---
@@ -65,7 +65,7 @@ Participants: Jubal James, Ryan Thomas, Einar Sheen, Ebner Sheen, Daniel Mannanc
 
 <img src="/img/AllSaintsDay2023Winners/73abe97d-2c3c-4bac-98b4-8e324288618b.jpeg" width="600" width="100%" height="auto">
 <br>
-Matrydom of St. Andrew
+Matrydom of St. Andrew</p>
 Participants: Mathew Sebastian, Ryan Chempananical, Tom Thomas, Esha Sheen, Ann Maria Manu, Angela James</p>
 
 ---
@@ -74,7 +74,7 @@ Participants: Mathew Sebastian, Ryan Chempananical, Tom Thomas, Esha Sheen, Ann 
 
 <img src="/img/AllSaintsDay2023Winners/4508ca42-02d9-4481-a1d0-0df6e9828279.jpeg" width="600" width="100%" height="auto">
 <br>
-An event in the life of St. Alphonsa
+An event in the life of St. Alphonsa</p>
 Participants: David Cijo Thomas, Annlyn Chalissery, Hannah Binish, Susan Thommana</p>
 
 ---
