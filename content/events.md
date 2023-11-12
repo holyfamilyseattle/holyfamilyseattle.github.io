@@ -13,8 +13,9 @@ title: "Events"
 Group A
 
 <img src="/img/AllSaintsDay2023Winners/1ad71f84-8e8c-4def-a0c4-e7e6af141d7a.jpeg" width="600" width="100%" height="auto">
-1st Prize Evelyn Miriam Charles (Our Lady of Fatima)</p> 
-2nd Prize Annlyn Chalissery (St.Alphonsa)</p> 
+<br>
+1st Prize Evelyn Miriam Charles (Our Lady of Fatima)</p>
+2nd Prize Annlyn Chalissery (St.Alphonsa)</p>
 3rd Prize Ebner Sheen (St.James)</p>
 
 ---
@@ -22,7 +23,7 @@ Group A
 Group B
 
 <img src="/img/AllSaintsDay2023Winners/f1a3448e-73f7-40dc-9e53-86d7989c181d.jpeg" width="600" width="100%" height="auto">
-
+<br>
 1st Prize Alka Sheen (St. Philomina)</p>
 2nd Prize Rachel Maria Thomas (St. Rita)</p>
 3rd Prize Annmaria Manu (St. Maria Goretti)</p>
@@ -33,6 +34,7 @@ Group B
 Group C
 
 <img src="/img/AllSaintsDay2023Winners/6c3d1695-a75a-4fab-8840-529f97b7251c.jpeg" width="600" width="100%" height="auto">
+<br>
 1st Prize Andrea Chalissery (Our Lady of Fatima)</p>
 2nd Prize Leo Thomas (St. Maximilian Kolbe)</p>
 3rd Prize Sarah Liz George (St.Jacinta)</p>
@@ -44,6 +46,7 @@ Group C
 1st Prize
 
 <img src="/img/AllSaintsDay2023Winners/01416f4b-9922-4e8e-95a6-8916e1c3f39f.jpeg" width="600" width="100%" height="auto">
+<br>
 Matyrdom of St. Sebastian</p> 
 Participants: Rachel Maria Thomas, Evelyn Miriam Charles, Ivan Jacob Philip, Eric Joe Charles, Rafael Palathingal, Shilpa Xavier</p>
 
@@ -52,15 +55,17 @@ Participants: Rachel Maria Thomas, Evelyn Miriam Charles, Ivan Jacob Philip, Eri
 2nd Prize 
 
 <img src="/img/AllSaintsDay2023Winners/d1bc67e0-0afd-4878-b3d3-b794084ba964.jpeg" width="600" width="100%" height="auto">
-Transfiguration
+<br>
+Transfiguration</p>
 Participants: Jubal James, Ryan Thomas, Einar Sheen, Ebner Sheen, Daniel Mannanchery, Jude Mannanchery</p>
 
 ---
 
 3rd Prize
 
-<img src="/img/AllSaintsDay2023Winners/73abe97d-2c3c-4bac-98b4-8e324288618b.jpeg" width="600" width="100%" height="auto"> 
-Matrydom of St. Andrew
+<img src="/img/AllSaintsDay2023Winners/73abe97d-2c3c-4bac-98b4-8e324288618b.jpeg" width="600" width="100%" height="auto">
+<br>
+Matrydom of St. Andrew</p>
 Participants: Mathew Sebastian, Ryan Chempananical, Tom Thomas, Esha Sheen, Ann Maria Manu, Angela James</p>
 
 ---
@@ -68,7 +73,8 @@ Participants: Mathew Sebastian, Ryan Chempananical, Tom Thomas, Esha Sheen, Ann 
 3rd Prize 
 
 <img src="/img/AllSaintsDay2023Winners/4508ca42-02d9-4481-a1d0-0df6e9828279.jpeg" width="600" width="100%" height="auto">
-An event in the life of St. Alphonsa
+<br>
+An event in the life of St. Alphonsa</p>
 Participants: David Cijo Thomas, Annlyn Chalissery, Hannah Binish, Susan Thommana</p>
 
 ---
