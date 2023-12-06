@@ -49,7 +49,7 @@ remote: Counting objects: 100% (390/390), done.
 remote: Compressing objects: 100% (230/230), done.
 remote: Total 3059 (delta 186), reused 283 (delta 117), pack-reused 2669
 Receiving objects: 100% (3059/3059), 9.34 MiB | 25.44 MiB/s, done.
-Resolving deltas: 100% (1700/1700), done.
+Resolving deltas: 100% (1700/1700), done
 ```
 
 ---
