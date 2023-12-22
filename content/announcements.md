@@ -24,4 +24,10 @@ https://holyfamilyseattle.org/donation/
 ### <b>Christmas Mass:</b> December 24th, Sunday at 6.00 PM
 ### <b>Venue:</b> Christ the King (CTK) Lutheran Church (3730 148th Ave SE, Bellevue, WA 98006)
 
+</br>
+</br>
+</br>
+
+##### *** Weekly announcements in detail are shared in church whatsapp and facebook groups
+
 ---
