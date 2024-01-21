@@ -75,4 +75,4 @@ In your handbook, you will find nine verses from the Bible that are related to o
 <img src="/img/PrincipleChallengeWinners/IMG-20240121-WA0011.jpg" width="180" width="100%" height="auto">
 
 </p>
-1. Lia Robin 2B | 2. Jude Mannanchery | 3. Daniel Mannanchery
+1. Lia Robin 2B | 2. Jude Mannanchery 4A | 3. Daniel Mannanchery 1A
