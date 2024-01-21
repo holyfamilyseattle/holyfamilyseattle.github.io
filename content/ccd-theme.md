@@ -29,4 +29,50 @@ In your handbook, you will find nine verses from the Bible that are related to o
 * Students who complete the challenge will be featured on this website
 * **Big Twist** - even after reciting this once, don’t rest easy! We will check with you again, any time of the year to make sure you have really learnt it. 
 
+---
 
+### Challenge Verses
+
+*So, whether you eat or drink, or whatever you do, do everything for the glory of God.*
+**(1 Cor. 10:31**
+
+*Glorify the Lord and exalt Him as much as you can, for he surpasses even that.*
+*When you exalt him, summon all your strength, and do not grow weary, for you cannot praise him enough.*
+**(Sirach 43:30)**
+
+*But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.*  
+**(2 Peter 3:18)**
+
+*Glory to God in the highest heaven,*
+*and on earth peace among those whom he favors!*
+**(Luke 2:14)**
+
+*Because your steadfast love is better than life, my lips will praise you.*
+**(Psalm 63:3)**
+
+*You are worthy, our Lord and God, to receive glory and honor and power,*
+*for you created all things, and by your will they existed and were created.*
+**(Revelations 4:11)**
+
+*Bless the LORD, O my soul, and all that is within me, bless his holy name.*
+**(Psalm 103:1)**
+
+*To Him be glory in the church and in Christ Jesus to all generations, forever and ever. Amen.*
+**(Ephesians 3:21)**
+
+*Amen! Blessing and glory and wisdom and thanksgiving and honor and power and might be to our God forever and ever! Amen.*  
+**(Revelations 7:12)**
+
+---
+
+### Challenge Winners
+
+<p float="left">
+<img src="/img/PrincipleChallengeWinners/IMG-20240104-WA0004.jpg" width="180" width="100%" height="auto">
+
+<img src="/img/PrincipleChallengeWinners/IMG-20240121-WA0010.jpg" width="180" width="100%" height="auto">
+
+<img src="/img/PrincipleChallengeWinners/IMG-20240121-WA0011.jpg" width="180" width="100%" height="auto">
+
+</p>
+1. Lia Robin 2B | 2. Jude Mannanchery 4A | 3. Daniel Mannanchery 1A
