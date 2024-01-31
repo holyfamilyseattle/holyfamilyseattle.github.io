@@ -67,6 +67,6 @@ In your handbook, you will find nine verses from the Bible that are related to o
 
 ### Challenge Winners
 
-| <img src="/img/PrincipleChallengeWinners/IMG-20240104-WA0004 (1).jpg" width="180" width="100%" height="180"> |<img src="/img/PrincipleChallengeWinners/IMG-20240121-WA0010 (1).jpg" width="180" width="100%" height="180">|<img src="/img/PrincipleChallengeWinners/IMG-20240121-WA0011 (1).jpg" width="180" width="100%" height="180"> |
-| ------------- | ------------- | ------------- |
-| 1. Lia Robin 2B  |  2. Jude Mannanchery 4A  |  3. Daniel Mannanchery 1A |
+| <img src="/img/PrincipleChallengeWinners/IMG-20240104-WA0004 (1).jpg" width="180" width="100%" height="180"> |<img src="/img/PrincipleChallengeWinners/IMG-20240121-WA0010 (1).jpg" width="180" width="100%" height="180">|<img src="/img/PrincipleChallengeWinners/IMG-20240121-WA0011 (1).jpg" width="180" width="100%" height="180"> | <img src="/img/PrincipleChallengeWinners/Ainer 4.jpg" width="180" width="100%" height="180"> | <img src="/img/PrincipleChallengeWinners/WA0013 5(1).jpg" width="180" width="100%" height="180"> | <img src="/img/PrincipleChallengeWinners/Annlin 6.jpg" width="180" width="100%" height="180"> | <img src="/img/PrincipleChallengeWinners/Hamlin 7.jpg" width="180" width="100%" height="180"> |
+| ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- |
+| 1. Lia Robin |  2. Jude Mannanchery |  3. Daniel Mannanchery | 4. Einar Sheen | 5. Alaina Kiran Bertil | 6. Annlin Mejo | 7. Hamlin Mejo |
