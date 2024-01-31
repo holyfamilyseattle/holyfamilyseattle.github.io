@@ -73,4 +73,4 @@ In your handbook, you will find nine verses from the Bible that are related to o
 
 | <img src="/img/PrincipleChallengeWinners/WA0013 5(1).jpg" width="180" width="100%" height="180"> | <img src="/img/PrincipleChallengeWinners/Annlin 6.jpg" width="180" width="100%" height="180"> | <img src="/img/PrincipleChallengeWinners/Hamlin 7.jpg" width="180" width="100%" height="180"> |
 | ------------- | ------------- | ------------- |
-| 5. Alaina Kiran Bertil | 6. Annlin Mejo | 7. Hamlin Mejo |
+| 5. Elaina Kiran Bertil | 6. Annlin Mejo | 7. Hamlin Mejo |
