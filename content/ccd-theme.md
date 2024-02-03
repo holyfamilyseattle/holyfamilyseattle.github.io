@@ -33,34 +33,34 @@ In your handbook, you will find nine verses from the Bible that are related to o
 
 ### Challenge Verses
 
-*So, whether you eat or drink, or whatever you do, do everything for the glory of God.*
+1. *So, whether you eat or drink, or whatever you do, do everything for the glory of God.*
 **(1 Cor. 10:31**
 
-*Glorify the Lord and exalt Him as much as you can, for he surpasses even that.*
+2. *Glorify the Lord and exalt Him as much as you can, for he surpasses even that.*
 *When you exalt him, summon all your strength, and do not grow weary, for you cannot praise him enough.*
 **(Sirach 43:30)**
 
-*But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.*  
+3. *But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.*  
 **(2 Peter 3:18)**
 
-*Glory to God in the highest heaven,*
+4. *Glory to God in the highest heaven,*
 *and on earth peace among those whom he favors!*
 **(Luke 2:14)**
 
-*Because your steadfast love is better than life, my lips will praise you.*
+5. *Because your steadfast love is better than life, my lips will praise you.*
 **(Psalm 63:3)**
 
-*You are worthy, our Lord and God, to receive glory and honor and power,*
+6. *You are worthy, our Lord and God, to receive glory and honor and power,*
 *for you created all things, and by your will they existed and were created.*
 **(Revelations 4:11)**
 
-*Bless the LORD, O my soul, and all that is within me, bless his holy name.*
+7. *Bless the LORD, O my soul, and all that is within me, bless his holy name.*
 **(Psalm 103:1)**
 
-*To Him be glory in the church and in Christ Jesus to all generations, forever and ever. Amen.*
+8. *To Him be glory in the church and in Christ Jesus to all generations, forever and ever. Amen.*
 **(Ephesians 3:21)**
 
-*Amen! Blessing and glory and wisdom and thanksgiving and honor and power and might be to our God forever and ever! Amen.*  
+9. *Amen! Blessing and glory and wisdom and thanksgiving and honor and power and might be to our God forever and ever! Amen.*  
 **(Revelations 7:12)**
 
 ---

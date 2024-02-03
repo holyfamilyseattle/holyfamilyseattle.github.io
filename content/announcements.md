@@ -2,7 +2,7 @@
 title: "Announcements"
 ---
 
-### Oct 15th, 2023
+<!--### Oct 15th, 2023
 ---
 
 ### Announcements from Sunday School
@@ -19,6 +19,15 @@ https://holyfamilyseattle.org/donation/
 1. The Holy Family Syro Malabar Catholic Mission now has the option for <a target="_blank" href="https://holyfamilyseattle.org/donation/">online donations</a>. We kindly ask that you prayerfully consider setting up recurring donations to support the church's activities. If you have any questions or concerns, please reach out to any of the trustees.
 2. The Ward Based Ministry Assistance for Holy Mass for 29th October, will be coordinated by Saint Joseph’s Ward (Bothel, Woodinville, Everett, Mill Creek).
 3. The Holy Mass for *next week, on Sunday, October 22nd, 2023, will be held at 2:30 PM at Don Bosco Camp* (https://maps.app.goo.gl/gtfUWd9UGgF2fpUQA).
-4. Our Annual Calendar is already available in our Mission Website and in addition, we will be publishing a Physical paper based Annual Calendar for 2024, for which Advertisement space is available, please reach out to Trustees for more details.
+4. Our Annual Calendar is already available in our Mission Website and in addition, we will be publishing a Physical paper based Annual Calendar for 2024, for which Advertisement space is available, please reach out to Trustees for more details. -->
+
+### <b>Christmas Mass:</b> December 24th, Sunday at 6.00 PM
+### <b>Venue:</b> Christ the King (CTK) Lutheran Church (3730 148th Ave SE, Bellevue, WA 98006)
+
+</br>
+</br>
+</br>
+
+##### *** Weekly announcements in detail are shared in church whatsapp and facebook groups
 
 ---
