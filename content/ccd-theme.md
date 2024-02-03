@@ -75,7 +75,7 @@ In your handbook, you will find nine verses from the Bible that are related to o
 | ------------- | ------------- | ------------- |
 | 4. Einar Sheen | 5. Alaina Kiran Bertil | 6. Annlin Mejo |
 
-| <img src="/img/PrincipleChallengeWinners/Hamlin 7.jpg" width="180" width="100%" height="180"> | <img src="/img/PrincipleChallengeWinners/Ebner.jpg" width="180" width="100%" height="180"> | <img src="/img/PrincipleChallengeWinners/Mathew.jpg" width="180" width="100%" height="180"> |
+| <img src="/img/PrincipleChallengeWinners/Hamlin 7.jpg" width="180" width="100%" height="180"> | <img src="/img/PrincipleChallengeWinners/Ebner.jpg" width="180" width="100%" height="180"> | <img src="/img/PrincipleChallengeWinners/Matthew.jpg" width="180" width="100%" height="180"> |
 | ------------- | ------------- | ------------- |
 | 7. Hamlin Mejo | 8. Ebner Sheen | 9. Matthew Sebastian |
 
