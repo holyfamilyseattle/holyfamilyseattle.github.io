@@ -3,11 +3,6 @@
 [banner]
 
   [[banner.button]]
-      url = "/announcements"
-      text = "Announcements"
-      type = "secondary"
-
-  [[banner.button]]
       url = "/events"
       text = "Events"
       type = "secondary"
