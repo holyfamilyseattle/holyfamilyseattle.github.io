@@ -14,3 +14,10 @@ title: "Events"
 
 <img src="/img/retreat_mar_2024.jpg" width="600" width="100%" height="auto">
 
+### Holy Week 2024 Schedule
+
+![Holy Week 2024 Schedule](/img/holy_week_2024.jpg) "Holy Week 2024")
+
+
+
+
