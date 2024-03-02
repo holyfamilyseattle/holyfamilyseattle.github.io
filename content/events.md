@@ -17,4 +17,4 @@ title: "Events"
 
 ### Holy Week 2024 Schedule
 
-<img src="/img/holy_week_2024.jpg" width="auto" height="auto">
+{{< figure src="https://lh3.googleusercontent.com/pw/AP1GczNDmVqBTfLshsH6u4gBnmvCVBBE3kgG9s14Qju9n2UwPDJ57Po9Rbyy0NqfkcHhVgIQ0fWcXhhpzebLySl6-7_cEb3CGydDleVWwVg-Avaskzgk0Idm=w2400">}}
