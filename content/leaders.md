@@ -36,4 +36,3 @@ draft: false
 ##### Women's Fellowship Ministry - Ginny George
 
 ---
-

@@ -131,7 +131,7 @@ theme = "alpha-church"
 # Paramaters for the whole site
 [params]
   title = "Holy Family Syro Malabar Catholic Mission"
-  subtitle = "Seattle, Washington"
+  subtitle = "(Syro Malabar Catholic Eparchy of Chicago)"
   author = "Ajith Cherukad Jose"
   keywords = ["hugo"]
   languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
