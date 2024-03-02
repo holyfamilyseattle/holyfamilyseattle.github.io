@@ -34,7 +34,7 @@ In your handbook, you will find nine verses from the Bible that are related to o
 ### Challenge Verses
 
 1. *So, whether you eat or drink, or whatever you do, do everything for the glory of God.*
-**(1 Cor. 10:31**
+**(1 Cor. 10:31)**
 
 2. *Glorify the Lord and exalt Him as much as you can, for he surpasses even that.*
 *When you exalt him, summon all your strength, and do not grow weary, for you cannot praise him enough.*
@@ -65,7 +65,7 @@ In your handbook, you will find nine verses from the Bible that are related to o
 
 ---
 
-### Challenge Winners
+### First 10 Challenge Winners
 
 | <img src="/img/PrincipleChallengeWinners/IMG-20240104-WA0004 (1).jpg" width="180" width="100%" height="180"> |<img src="/img/PrincipleChallengeWinners/IMG-20240121-WA0010 (1).jpg" width="180" width="100%" height="180">|<img src="/img/PrincipleChallengeWinners/IMG-20240121-WA0011 (1).jpg" width="180" width="100%" height="180"> |
 | ------------- | ------------- | ------------- |
@@ -82,3 +82,12 @@ In your handbook, you will find nine verses from the Bible that are related to o
 | <img src="/img/PrincipleChallengeWinners/Kevin.jpg" width="180" width="100%" height="180"> |
 | ------------- |
 | 10. Kevin Tom Augustine |
+
+---
+
+### Students Who Completed the Challenge
+
+* Ryan Chempananical 
+* Anna Austin
+* Mathew Kundukulam Thomas
+* Jubal James
