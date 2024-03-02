@@ -34,5 +34,3 @@ draft: false
 #### Outreach Ministry - Nissy Joseph
 #### Tech Ministry - Tom Chempananical
 #### Women's Fellowship Ministry - Ginny George
-
----
