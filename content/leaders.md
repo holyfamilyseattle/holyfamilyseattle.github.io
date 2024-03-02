@@ -44,15 +44,10 @@ draft: false
 
 ---
 
-### Shikha Jose
-#### Women Fellowship Council Member
-
----
-
 ### Ginny Ajith
 #### Women Fellowship Council Member
 
 ---
 
-### Nisha Susan John
+### Asha Tijo
 #### Women Fellowship Council Member
