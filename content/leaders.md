@@ -15,7 +15,7 @@ draft: false
 #### Anu Anand
 #### Arun Mathew
 #### Bibin Baby
-#### Minta Thoimas
+#### Minta Thomas
 #### Saji Alex
 #### Sheena Mathew
 #### Sunil John
