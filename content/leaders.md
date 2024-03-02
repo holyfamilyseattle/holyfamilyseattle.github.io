@@ -5,9 +5,9 @@ draft: false
 ---
 
 ### Trustees
-##### Betty Chempananical
-##### Binish Mathew
-##### Sonimon James
+#### Betty Chempananical
+#### Binish Mathew
+#### Sonimon James
 
 ---
 
@@ -34,5 +34,3 @@ draft: false
 #### Outreach Ministry - Nissy Joseph
 #### Tech Ministry - Tom Chempananical
 #### Women's Fellowship Ministry - Ginny George
-
----
