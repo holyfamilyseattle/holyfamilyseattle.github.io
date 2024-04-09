@@ -12,5 +12,5 @@ title: "Events"
 ---
 ### Holy Week 2024 Schedule
 
-<img src="/img/holy_week_2024.jpg" width="auto" height="auto">
+<img src="/img/divinetalentsprograms.jpg" width="auto" height="auto">
 ---
