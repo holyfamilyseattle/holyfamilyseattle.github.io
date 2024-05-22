@@ -10,11 +10,7 @@ title: "Events"
 </div>
 
 ---
-### Lenten Retreat 2024 - Mar 9th Saturday
-
-<img src="/img/retreat_mar_2024.jpg" width="auto" height="auto">
----
-
 ### Holy Week 2024 Schedule
 
-{{< figure src="https://lh3.googleusercontent.com/pw/AP1GczNDmVqBTfLshsH6u4gBnmvCVBBE3kgG9s14Qju9n2UwPDJ57Po9Rbyy0NqfkcHhVgIQ0fWcXhhpzebLySl6-7_cEb3CGydDleVWwVg-Avaskzgk0Idm=w2400">}}
+<img src="/img/divinetalentsprograms.jpg" width="auto" height="auto">
+---
