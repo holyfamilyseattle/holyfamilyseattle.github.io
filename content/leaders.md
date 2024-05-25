@@ -4,50 +4,34 @@ date: 2021-12-08T14:27:13+10:00
 draft: false
 ---
 
-### Sebastian Poulose
-#### Trustee & Pastoral Council Member
+### Trustees
+* Betty Chempananical
+* Binish Mathew
+* Sonimon James
+* 
+---
+
+### Parish Council Members
+* Anu Anand
+* Arun Mathew
+* Bibin Baby
+* Minta Thomas
+* Saji Alex
+* Sheena Mathew
+* Sunil John
+* Tintu Mathew
 
 ---
 
-### Binish Mathew
-#### Trustee & Pastoral Council Member
+### Ministry Leads
+* Communications Ministry - Cijo Thomas
+* Food & Fellowship Ministry - Biju Mathew
+* Hospitality Ministry - Chrison Jacob
+* Liturgical Ministry ( Altar Servers) - Manu Varghese
+* Liturgical Ministry (Altar Guild) - Minta Thomas
+* Music Ministry - Jerin Mathew & Liz George
+* Religious Education Ministry - Betty Chempananical
+* Outreach Ministry - Nissy Joseph
+* Tech Ministry - Tom Chempananical
+* Women's Fellowship Ministry - Ginny George
 
----
-
-### Vishal Jose Mannanal
-#### Trustee & Pastoral Council Member
-
----
-
-### Jimmy Paul Isaac
-#### Pastoral Council Member
-
----
-
-### Jacob Thomas
-#### Pastoral Council Member
-
----
-
-### Sheen Thomas
-#### Pastoral Council Member
-
----
-
-### Betty Chempananical
-#### Pastoral Council Member & Director of Religious Education
-
----
-
-### Sajay Jose
-#### Assistant Director of Religious Education
-
----
-
-### Ginny Ajith
-#### Women Fellowship Council Member
-
----
-
-### Asha Tijo
-#### Women Fellowship Council Member
