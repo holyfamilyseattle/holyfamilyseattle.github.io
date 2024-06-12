@@ -92,3 +92,7 @@ In your handbook, you will find nine verses from the Bible that are related to o
 * Mathew Kundukulam Thomas
 * Jubal James
 * Rachel Maria Thomas
+* Sarah Binish
+* Elza Gijo
+* David Cijo Thomas
+* Ciara Mary Cinto
