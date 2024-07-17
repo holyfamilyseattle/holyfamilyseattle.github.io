@@ -10,7 +10,7 @@ title: "Events"
 </div>
 
 ---
-### Holy Week 2024 Schedule
 
-<img src="/img/divinetalentsprograms.jpg" width="auto" height="auto">
+<img src="/img/nativity.jpg" width="auto" height="auto">
+
 ---
