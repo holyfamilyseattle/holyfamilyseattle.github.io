@@ -8,7 +8,6 @@ draft: false
 * Betty Chempananical
 * Binish Mathew
 * Sonimon James
-* 
 ---
 
 ### Parish Council Members
@@ -30,8 +29,7 @@ draft: false
 * Liturgical Ministry ( Altar Servers) - Manu Varghese
 * Liturgical Ministry (Altar Guild) - Minta Thomas
 * Music Ministry - Jerin Mathew & Liz George
-* Religious Education Ministry - Betty Chempananical
+* Religious Education Ministry - Sajay Jose
 * Outreach Ministry - Nissy Joseph
 * Tech Ministry - Tom Chempananical
 * Women's Fellowship Ministry - Ginny George
-
