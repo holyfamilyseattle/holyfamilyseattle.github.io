@@ -8,10 +8,10 @@ images: ["img/jesus-with-children.jpg"]
 ### CCD Team
 
 <table>
-<tr><td> <b>MISSION DIRECTOR</b> </td> <td>FR. JAMES JOSEPH</td><td></td></tr>
-<tr><td> <b>PRINCIPAL</b> </td> <td>BETTY CHEMPANANICAL</td><td></td></tr>
-<tr><td> <b>VICE PRINCIPAL</b> </td> <td>SAJAY JOSE</td><td></td></tr>
+<tr><td> <b>MISSION DIRECTOR</b> </td> <td>FR. RAPHAEL AMBADAN</td><td></td></tr>
+<tr><td> <b>PRINCIPAL</b> </td> <td>SAJAY JOSE</td><td></td></tr>
 <tr><td> <b>VICE PRINCIPAL</b> </td> <td>TOM MANNANCHERY</td><td></td></tr>
+<tr><td> <b>VICE PRINCIPAL</b> </td> <td>SONIA JACOB</td><td></td></tr>
 <tr><td> <b>GRADE KG-A</b> </td> <td>ANNAMARY BABU</td> <td>SITHARA GEORGE</td></tr>
 <tr><td> <b>GRADE KG-B</b> </td> <td>DAINY KOTTOOR</td> <td>DHANYA FRANCIS</td></tr>
 <tr><td> <b>GRADE 1</b> </td> <td>SONA SEBASTIAN</td> <td>SEEMA LUKOSE</td></tr>
