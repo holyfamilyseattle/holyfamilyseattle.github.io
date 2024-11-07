@@ -140,29 +140,35 @@
 &lt;tr>&lt;td> &lt;b>PRINCIPAL&lt;/b> &lt;/td> &lt;td>SAJAY JOSE&lt;/td>&lt;td>&lt;/td>&lt;/tr>
 &lt;tr>&lt;td> &lt;b>VICE PRINCIPAL&lt;/b> &lt;/td> &lt;td>TOM MANNANCHERY&lt;/td>&lt;td>&lt;/td>&lt;/tr>
 &lt;tr>&lt;td> &lt;b>VICE PRINCIPAL&lt;/b> &lt;/td> &lt;td>SONIA JACOB&lt;/td>&lt;td>&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE KG-A&lt;/b> &lt;/td> &lt;td>ANNAMARY BABU&lt;/td> &lt;td>SITHARA GEORGE&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE KG-B&lt;/b> &lt;/td> &lt;td>DAINY KOTTOOR&lt;/td> &lt;td>DHANYA FRANCIS&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 1&lt;/b> &lt;/td> &lt;td>SONA SEBASTIAN&lt;/td> &lt;td>SEEMA LUKOSE&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 2-A&lt;/b> &lt;/td> &lt;td>PRIYANKA&lt;/td> &lt;td>NIRMALA JOSE&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 2-B&lt;/b> &lt;/td> &lt;td>ANU ANAND JOHN&lt;/td> &lt;td>SHILPA XAVIER&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 2-C&lt;/b> &lt;/td> &lt;td>MINTA THOMAS&lt;/td> &lt;td>ANU JOHN&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 3&lt;/b> &lt;/td> &lt;td>JERIN MATHEW&lt;/td> &lt;td>TUNI MUNDACKAL&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 4-A&lt;/b> &lt;/td> &lt;td>ANNA MATHEW&lt;/td> &lt;td>AMRITA JACOB KARIPAT&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 4-B&lt;/b> &lt;/td> &lt;td>JAMES DOMINIC&lt;/td> &lt;td>NIKHILA ROSE&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 5&lt;/b> &lt;/td> &lt;td>NISHA JOHN&lt;/td> &lt;td>RAJESH GEORGE&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 6-A&lt;/b> &lt;/td> &lt;td>AMITHA MATHEW&lt;/td> &lt;td>JISS JOSE&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 6-B&lt;/b> &lt;/td> &lt;td>JACOB NINAN&lt;/td> &lt;td>TINTU JOSE&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 7&lt;/b> &lt;/td> &lt;td>JOSEPH JOHN&lt;/td> &lt;td>MANU VARGHESE&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 8&lt;/b> &lt;/td> &lt;td>JEESMON JACOB&lt;/td> &lt;td>ANISH MONY&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 9&lt;/b> &lt;/td> &lt;td>THOMAS P. THOMAS&lt;/td> &lt;td>JOBIN JOSEPH&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE KG-A&lt;/b> &lt;/td> &lt;td>SITHARA GEORGE&lt;/td> &lt;td>NITA BINISH&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE KG-B&lt;/b> &lt;/td> &lt;td>ANNAMARY BABY&lt;/td> &lt;td>JANCY JOESEPH&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 1-A&lt;/b> &lt;/td> &lt;td>GINNY GEORGE&lt;/td> &lt;td>SONA SEBASTIAN&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 1-B&lt;/b> &lt;/td> &lt;td>MINTA THOMAS&lt;/td> &lt;td>ANU JOHN&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 2-A&lt;/b> &lt;/td> &lt;td>ANU ANAND JOHN&lt;/td> &lt;td>SHILPA XAVIER&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 2-B&lt;/b> &lt;/td> &lt;td>DAINY KOTTOOR&lt;/td> &lt;td>DHANYA FRANCIS&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 3-A&lt;/b> &lt;/td> &lt;td>JERIN MATHEW&lt;/td> &lt;td>ARUJA SIJO THOMMANA&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 3-B&lt;/b> &lt;/td> &lt;td>NEETHU JOESEPH&lt;/td> &lt;td>RIYA TOMY KONDODY&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 4&lt;/b> &lt;/td> &lt;td>STEPHIN JOESEPH ANNA&lt;/td> &lt;td>AMRITA JACOB KARIPAT&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 5-A&lt;/b> &lt;/td> &lt;td>NISHA JOHN&lt;/td> &lt;td>VISHAL JOSE MANNANAL&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 5-B&lt;/b> &lt;/td> &lt;td>RAJESH GEORGE&lt;/td> &lt;td>MEJO CHERIAN&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 6-A&lt;/b> &lt;/td> &lt;td>JISS JOSE&lt;/td> &lt;td>MARIA ROSE&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 6-B&lt;/b> &lt;/td> &lt;td>JACOB NINAN&lt;/td> &lt;td>JAMES DOMINIC&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 7-A&lt;/b> &lt;/td> &lt;td>JOSEPH JOHN&lt;/td> &lt;td>BINCY MATTHEW&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 7-B&lt;/b> &lt;/td> &lt;td>MANU VARGHESE&lt;/td> &lt;td>ASHIN TINTO&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 8-A&lt;/b> &lt;/td> &lt;td>JEESMON JACOB&lt;/td> &lt;td>NIDHIN JOSE&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 8-B&lt;/b> &lt;/td> &lt;td>ANISH MONY&lt;/td> &lt;td>MELVY ALBERT&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 9&lt;/b> &lt;/td> &lt;td>THOMAS P. THOMAS&lt;/td> &lt;td>JERRY&lt;/td>&lt;/tr>
 &lt;tr>&lt;td> &lt;b>GRADE 10&lt;/b> &lt;/td> &lt;td>JIMMY ISSAC&lt;/td> &lt;td>TOM CHEMPANANICAL&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>GRADE 11&lt;/b> &lt;/td> &lt;td>SUNIL JOHN&lt;/td> &lt;td>TOJIMON MATHEW&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 11&lt;/b> &lt;/td> &lt;td>SUNIL JOHN&lt;/td> &lt;td>MOLLY GEORGE&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>GRADE 12&lt;/b> &lt;/td> &lt;td>TOJI MATTHEW&lt;/td> &lt;td>DANNY VAYALIL&lt;/td>&lt;/tr>
 &lt;/table>
 &lt;table>
-&lt;tr>&lt;td> &lt;b>HOLY CHILDHOOD ASSOCIATION (HCA)&lt;/b> &lt;/td> &lt;td>AMITHA MATHEW &lt;br> JULIN JOSE &lt;/td>&lt;td>&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>LITTLE FLOWER MISSION LEAGUE (LFML)&lt;/b> &lt;/td> &lt;td>NIKHILA ROSE &lt;br> JOSEPH JOHN &lt;br> MEJO CHERIAN &lt;/td>&lt;td>&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>DIOCESAN YOUTH APOSTOLATE (DYA)&lt;/b> &lt;/td> &lt;td>JEESMON JACOB &lt;br> NITHIN CYRIL SCARIA &lt;/td>&lt;td>&lt;/td>&lt;/tr>
-&lt;tr>&lt;td> &lt;b>SACRAMENTAL PREPARATION&lt;/b> &lt;/td> &lt;td>SHIKHA JOSE &lt;br> BINISH MATHEW &lt;br> LIZ GEORGE PHILIP &lt;br> NISSY JOSEPH &lt;/td>&lt;td>&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>HOLY CHILDHOOD ASSOCIATION (HCA)&lt;/b>&lt;/td>&lt;td>AMITHA MATHEW&lt;br>JULIN JOSE&lt;br>DHANYA FRANCIS&lt;/td>&lt;td>&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>CHERUPUSHPA
+MISSION LEAGUE
+(CML)&lt;/b> &lt;/td> &lt;td>NIKHILA ROSE &lt;br> SHERINE THOMAS &lt;br> SONA SEBASTIAN &lt;/td>&lt;td>&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>DIOCESAN YOUTH APOSTOLATE (DYA)&lt;/b> &lt;/td> &lt;td>JOBIN JOESEPH&lt;br>TINTU JOSE&lt;/td>&lt;td>&lt;/td>&lt;/tr>
+&lt;tr>&lt;td> &lt;b>SACRAMENTAL PREPARATION&lt;/b> &lt;/td> &lt;td>LIZ GEORGE PHILIP &lt;br>NISSY JOSEPH&lt;br>AMITHA MATHEW&lt;br>BINISH MATHEW&lt;br>JIMMY ISSAC&lt;/td>&lt;td>&lt;/td>&lt;/tr>
 &lt;/table></description></item><item><title>CCD Theme</title><link>https://holyfamilyseattle.github.io/ccd-theme-2023-2024/</link><pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate><guid>https://holyfamilyseattle.github.io/ccd-theme-2023-2024/</guid><description>&lt;h3 id="give-glory-to-god">&lt;strong>Give Glory to God&lt;/strong>&lt;/h3>
 &lt;h4 id="eesho-mishihaykku-sthuthi-aayirikkatte">Eesho Mishihaykku Sthuthi Aayirikkatte&lt;/h4>
 &lt;img src="https://holyfamilyseattle.github.io/img/sthuthi.jpg" width="180" width="100%" height="auto">
