@@ -221,7 +221,7 @@ https://holyfamilyseattle.org/donation/
 &lt;/div></description></item><item><title>Events</title><link>https://holyfamilyseattle.github.io/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://holyfamilyseattle.github.io/events/</guid><description>&lt;div>
  &lt;h3>Events Calendar&lt;/h3>
  &lt;div class="container-iframe">
- &lt;iframe class="responsive-iframe" src="https://calendar.google.com/calendar/embed?src=c21jc2VhdHRsZS50cnVzdGVlc0BnbWFpbC5jb20&amp;src=Y181OGFkM2FiNzMxM2U4OTRkZWYxMDFjNmE2MjNhZDBjYTE2N2QxMmU5NmVlZTUxYzdjMmVlY2VjNDU4NjcyMzc5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" width="800" height="600" frameborder="0" scrolling="no">&lt;/iframe>
+ &lt;iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=America%2FLos_Angeles&amp;showPrint=0&amp;src=c21jc2VhdHRsZS50cnVzdGVlc0BnbWFpbC5jb20&amp;src=NmVlNjY4ZTkzMzNmYTAxOTI2MGQ3MzlmODQ1YzY0ZWI0YjkwMTZkY2M4ZmE5ZjdiMGJhYWNhZTdiZDQ1ODYzMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y181OGFkM2FiNzMxM2U4OTRkZWYxMDFjNmE2MjNhZDBjYTE2N2QxMmU5NmVlZTUxYzdjMmVlY2VjNDU4NjcyMzc5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%237CB342&amp;color=%23AD1457&amp;color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no">&lt;/iframe>
  &lt;/div>
 &lt;/div>
 &lt;hr>
