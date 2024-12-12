@@ -63,36 +63,36 @@ theme = "alpha-church"
     name = "CCD Team"
     url = "/ccd-team"
     parent = "Faith Formation"
-    weight = 3  
+    weight = 3
 
   [[menu.main]]
+    name = "CCD Newsletter"
+    url = "/ccd-newsletter"
+    parent = "Faith Formation"
+    weight = 4
+
+[[menu.main]]
     name = "CCD Guidelines"
     url = "/ccd-guidelines"
     parent = "Faith Formation"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "CCD Associations"
     url = "/ccd-associations"
     parent = "Faith Formation"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "CCD Theme 2024-25"
     url = "/ccd-theme-2024-2025"
     parent = "Faith Formation"
-    weight = 6
-
-  [[menu.main]]
-    name = "CCD Theme 2023-24"
-    url = "/ccd-theme-2023-2024"
-    parent = "CCD Theme 2024-25"
-    weight = 6
+    weight = 7
 
   [[menu.main]]
     name = "Resources"
     parent = "Faith Formation"
-    weight = 7
+    weight = 8
 
   [[menu.main]]
     name = "CCD Registration"
