@@ -11,6 +11,6 @@ title: "Events"
 
 ---
 
-<img src="/img/cake-fundraiser.jpg" width="auto" height="auto">
+<img src="/img/xmas-2024.jpeg" width="auto" height="auto">
 
 ---
