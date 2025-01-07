@@ -4,7 +4,7 @@
 
   [[banner.button]]
       url = "/events"
-      text = "Events"
+      text = "Calendar/Events"
       type = "secondary"
 
   [[banner.button]]
