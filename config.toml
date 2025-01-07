@@ -38,7 +38,7 @@ theme = "alpha-church"
     weight = 3
   
   [[menu.main]]
-    name = "Events"
+    name = "Calendar/Events"
     url = "/events"
     weight = 3
     
