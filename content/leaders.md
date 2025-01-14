@@ -6,7 +6,7 @@ draft: false
 
 ### Trustees
 * Betty Chempananical
-* Binish Mathew
+* Biju Mathew
 * Sonimon James
 ---
 
@@ -14,6 +14,7 @@ draft: false
 * Anu Anand
 * Arun Mathew
 * Bibin Baby
+* Binish Mathew
 * Minta Thomas
 * Saji Alex
 * Sheena Mathew
@@ -24,12 +25,12 @@ draft: false
 
 ### Ministry Leads
 * Communications Ministry - Cijo Thomas
-* Food & Fellowship Ministry - Biju Mathew
-* Hospitality Ministry - Chrison Jacob
+* Food & Fellowship Ministry - Ajith Jose, Chrison Jacob
+* Hospitality Ministry - Thomas Mathew, Nithin Jose
 * Liturgical Ministry ( Altar Servers) - Manu Varghese
 * Liturgical Ministry (Altar Guild) - Minta Thomas
 * Music Ministry - Jerin Mathew & Liz George
 * Religious Education Ministry - Sajay Jose
 * Outreach Ministry - Nissy Joseph
 * Tech Ministry - Tom Chempananical
-* Women's Fellowship Ministry - Ginny George
+* Women's Fellowship Ministry - Asha Joseph, Amalu Johns
