@@ -11,6 +11,6 @@ title: "Events"
 
 ---
 
-<img src="/img/FamilyNight-2025.jpg" width="auto" height="auto">
+<img src="/img/holy_week_2025.jpg" width="auto" height="auto">
 
 ---
