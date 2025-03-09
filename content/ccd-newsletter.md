@@ -11,7 +11,7 @@ title: "CCD Newsletter"
 </style>
 
 <div class = "center">
-<a href="https://heyzine.com/flip-book/3551f8265b.html">CCD Newsletter - February 2025</a>
+<a style="font-weight:bold" href="https://heyzine.com/flip-book/3551f8265b.html">CCD Newsletter - February 2025</a>
 </div>
 
 <div class="container-iframe">
@@ -19,7 +19,7 @@ title: "CCD Newsletter"
 </div>
 
 <div class = "center">
-<a href="https://heyzine.com/flip-book/e65050ae1e.html">CCD Newsletter - August 2024</a>
+<a style="font-weight:bold" href="https://heyzine.com/flip-book/e65050ae1e.html">CCD Newsletter - August 2024</a>
 </div>
 
 <div class="container-iframe">
