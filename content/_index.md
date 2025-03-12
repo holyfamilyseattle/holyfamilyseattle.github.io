@@ -2,6 +2,11 @@
 
 [banner]
 
+    [[banner.button]]
+        url = "/priest-messages"
+        text = "Priest Messages"
+        type = "secondary"
+
   [[banner.button]]
       url = "/events"
       text = "Calendar/Events"
