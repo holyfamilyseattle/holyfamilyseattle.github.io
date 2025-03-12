@@ -2,10 +2,10 @@
 
 [banner]
 
-    [[banner.button]]
-        url = "/priest-corner"
-        text = "Priest's Corner"
-        type = "secondary"
+  [[banner.button]]
+      url = "/priest-corner"
+      text = "Priest's Corner"
+      type = "secondary"
 
   [[banner.button]]
       url = "/events"
