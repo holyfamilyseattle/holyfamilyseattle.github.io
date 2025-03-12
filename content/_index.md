@@ -3,7 +3,7 @@
 [banner]
 
     [[banner.button]]
-        url = "/priest-messages"
+        url = "/priest-corner"
         text = "Priest's Corner"
         type = "secondary"
 
