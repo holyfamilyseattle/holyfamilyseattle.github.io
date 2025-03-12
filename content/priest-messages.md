@@ -1,5 +1,5 @@
 ---
-title: "Priest Messages"
+title: "Priest's Corner"
 date: 2025-03-11
 draft: false
 ---

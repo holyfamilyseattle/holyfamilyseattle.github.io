@@ -4,7 +4,7 @@
 
     [[banner.button]]
         url = "/priest-messages"
-        text = "Priest Messages"
+        text = "Priest's Corner"
         type = "secondary"
 
   [[banner.button]]
