@@ -5,6 +5,34 @@ draft: false
 images: ["img/Fr_Raphael.jpg"]
 ---
 
+### Fourth Sunday of the Season of Lent (Mt. 21:33-44)
+
+**The Parable of the Wicked Tenants**
+
+Today's Gospel (Matthew 21:33-44) presents the profound parable of the wicked tenants, a story that unveils the stark reality of human attitudes and their inevitable consequences. At its heart lies the tragedy of rejection, an outright refusal to acknowledge the landowner, his messengers, and ultimately, his beloved son. This rejection, however, was not a mere misunderstanding, but the fruit of a deeply rooted negative disposition, one born of selfishness and pride.
+
+The tenants, blinded by their own arrogance, could not bring themselves to recognize the rightful ownership of the landowner. Their hearts, hardened by greed, sought to claim unjustly what was never theirs to possess. Indeed, in every negative attitude, pride and selfishness stand as twin pillars, distorting one's vision and leading to destructive choices. When consumed by such emotions, one not only harms oneself but also wounds others, setting in motion a chain of ruinous consequences.
+
+On this blessed feast of St. Joseph, we are presented with a striking contrast, a man of unwavering virtue, who, in the face of uncertainty, embraced life with a heart full of faith and a spirit adorned with humility. Where others may have faltered in doubt or resentment, St. Joseph chose a path illumined by trust in divine providence. His was a soul untarnished by selfish ambition, a heart that saw beyond mere appearances and recognized the hand of God in every unfolding event.
+
+Had he been ruled by pride, he might have questioned, doubted, or even turned away. Yet, instead of succumbing to bitterness, he moved forward with serene surrender, choosing to believe rather than to rebel, to trust rather than to despair. His silent strength and steadfast faith won him the singular honor of being the earthly guardian of the Holy Family, a role of unparalleled grace and responsibility.
+
+May we, like St. Joseph, cultivate a spirit of humble obedience and unwavering trust, dispelling every trace of selfishness and pride. Let our hearts remain open to the divine Will, that we may never fall into the tragedy of rejection but instead flourish in the vineyard of God’s boundless love.
+
+### Third Sunday of the Season of Lent (Mt. 7:21-27)
+
+**Building Our Lives Anchored on the Rock of Christ**
+
+Today’s Gospel passage highlights a profound truth about our faith journey. The essential question we must ask ourselves is: Where is my anchor? Is my life truly rooted in Christ, the unwavering Rock?
+
+The disciples of Jesus, though privileged to walk alongside the Master, were not fixated on His divine presence. Instead, their minds were preoccupied with thoughts of status and the positions they would hold in His kingdom. What a striking contrast! While Jesus remained steadfast in His mission, to fulfill the will of His Father, while his disciples were entangled in the fleeting attractions of this world!
+
+The parable of the wise builder serves as a timeless lesson. The one who listens to the Word of God and allows it to shape his life is like a man who builds his house upon solid rock. When storms arise, when trials, temptations, and hardships threaten, his foundation holds firm, for it is deeply rooted in faith. Conversely, the foolish builder is one who hears the Word but fails to live by it. His life is like a house built on shifting sands, fragile, vulnerable, and easily swept away when adversity strikes.
+
+This parable reminds us that the foundation upon which we build our lives matters immensely. Are we securing our lives on Christ, the eternal cornerstone, or are we constructing them upon the fleeting sands of wealth, power, and worldly success?
+
+Moreover, our faith must not be passive; it calls for action. Christ invites us to a life of authentic discipleship, where His teachings are not mere words but a lived reality. Love, forgiveness, humility, and service must be the hallmarks of our existence. When our lives are anchored in Him, no storm can shake the foundation upon which we stand. Let us, then, build wisely; upon the Jesus the rock that never fails.
+
 ### Second Sunday of the Season of Lent (Mt. 7:21-27)
 
 Today’s Gospel reading (Matthew 7:21-27) highlights two essential themes: 
