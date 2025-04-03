@@ -19,6 +19,8 @@ Had he been ruled by pride, he might have questioned, doubted, or even turned aw
 
 May we, like St. Joseph, cultivate a spirit of humble obedience and unwavering trust, dispelling every trace of selfishness and pride. Let our hearts remain open to the divine Will, that we may never fall into the tragedy of rejection but instead flourish in the vineyard of God’s boundless love.
 
+<hr>
+
 ### Third Sunday of the Season of Lent (Mt. 7:21-27)
 
 **Building Our Lives Anchored on the Rock of Christ**
@@ -32,6 +34,8 @@ The parable of the wise builder serves as a timeless lesson. The one who listens
 This parable reminds us that the foundation upon which we build our lives matters immensely. Are we securing our lives on Christ, the eternal cornerstone, or are we constructing them upon the fleeting sands of wealth, power, and worldly success?
 
 Moreover, our faith must not be passive; it calls for action. Christ invites us to a life of authentic discipleship, where His teachings are not mere words but a lived reality. Love, forgiveness, humility, and service must be the hallmarks of our existence. When our lives are anchored in Him, no storm can shake the foundation upon which we stand. Let us, then, build wisely; upon the Jesus the rock that never fails.
+
+<hr>
 
 ### Second Sunday of the Season of Lent (Mt. 7:21-27)
 
