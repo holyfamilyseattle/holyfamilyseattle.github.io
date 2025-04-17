@@ -150,7 +150,6 @@ theme = "alpha-church"
   [params.favicon]
     sml = "/img/logo.png"
     med = "/img/logo.png"
-    #lge = "example96.png"
 
   [params.banner]
     image = "img/banner.jpg"
