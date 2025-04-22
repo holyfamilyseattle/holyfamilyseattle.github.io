@@ -5,6 +5,23 @@ draft: false
 images: ["img/Fr_Raphael.jpg"]
 ---
 
+### Fifth Sunday of the Season of Lent (Mt. 21:33-44)
+
+**Jesus, the Source of Living Water and the Light of the World**
+
+Today’s Gospel readings present us with two profound images of Jesus: the Living Water and the Light of the World. These are not mere metaphors but divine realities that reveal Christ’s mission and His invitation to each of us.
+The context of today’s Gospel is the Feast of Tabernacles, a sacred celebration in which the Jewish people commemorated God’s providence during their forty years of wandering in the wilderness. They recalled how He sustained them with water from the rock and guided them with a pillar of fire. Against this rich backdrop, Jesus makes two extraordinary declarations, offering Himself as the fulfillment of these divine provisions.
+Jesus, the Source of Living Water (John 7:37-39)
+
+On the last and greatest day of the Feast, Jesus stands in the temple and proclaims: "Let anyone who is thirsty come to me and drink. Whoever believes in me, as Scripture has said, rivers of living water will flow from within them." (John. 7:37-38). Here, Jesus speaks of the Holy Spirit, the divine gift that would be poured out upon all who believe in Him. Just as water is essential for physical life, the Spirit is essential for our spiritual vitality, refreshing, renewing, and empowering our souls.
+Every human heart experiences spiritual thirst, a longing for peace, meaning, and true joy. Yet, many attempt to quench this thirst with the fleeting satisfactions of wealth, power, and pleasure. These may momentarily gratify, but they leave the soul restless and unfulfilled. Only Jesus, the true Living Water, can satisfy the deepest desires of our hearts, filling us with the grace and strength to live as children of God.
+Jesus, the Light of the World (John 8:12-20)
+
+In the following passage, Jesus makes another bold proclamation: "I am the Light of the World. Whoever follows me will never walk in darkness but will have the light of life." (John. 8:12) This declaration takes on even greater significance when we consider that, during the Feast of Tabernacles, lamps were lit in the temple to recall how God led His people through the wilderness with a pillar of fire. By claiming to be the Light of the World, Jesus is not merely offering guidance, He is revealing that He Himself is the divine presence of God, dispelling the darkness of sin, ignorance, and despair. Darkness represents all that separates us from God, confusion, doubt, and the burden of sin. In today’s world, we witness many walking in such darkness, losing hope, struggling with addiction, weighed down by anger or sorrow. Yet, Jesus assures us that whoever follows Him will never walk in darkness, for His light leads to truth, freedom, and eternal life.
+Becoming Bearers of Light and Living Water
+Water and light are essential to life. Without water, we wither; without light, we are lost. In the same way, those around us who are deprived of love, kindness, or hope experience a kind of spiritual drought and darkness. As followers of Christ, we are called not only to receive His light and living water but to become bearers of these gifts to others. When we extend compassion to the suffering, we quench their thirst. When we offer kindness and truth, we bring light to their path. In doing so, we become instruments of Christ’s grace, making a profound difference in the lives of those we encounter.
+<hr>
+
 ### Fourth Sunday of the Season of Lent (Mt. 21:33-44)
 
 **The Parable of the Wicked Tenants**

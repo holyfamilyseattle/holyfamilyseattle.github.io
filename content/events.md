@@ -10,7 +10,3 @@ title: "Events"
 </div>
 
 ---
-
-<img src="/img/holy_week_2025.jpg" width="auto" height="auto">
-
----
