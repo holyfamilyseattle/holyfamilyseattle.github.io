@@ -2,6 +2,19 @@
 title: "Events"
 ---
 
+<style>
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+
+<div class = "center">
+<img src="/img/first_communion_2025.jpg" width="55%">
+</div>
+
+---
 <div>
     <h3>Events Calendar</h3>
     <div class="container-iframe">
