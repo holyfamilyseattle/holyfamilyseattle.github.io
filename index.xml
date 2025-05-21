@@ -245,20 +245,20 @@ https://holyfamilyseattle.org/donation/
 .center {
  display: flex;
  justify-content: center;
- align-items: center;
+ align-items: top;
 }
 &lt;/style>
-&lt;div class = "center">
-&lt;img src="https://holyfamilyseattle.github.io/img/first_communion_2025.jpg" width="55%">
-&lt;/div>
-&lt;hr>
 &lt;div>
  &lt;h3>Events Calendar&lt;/h3>
  &lt;div class="container-iframe">
  &lt;iframe class="responsive-iframe" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=America%2FLos_Angeles&amp;showPrint=0&amp;src=c21jc2VhdHRsZS50cnVzdGVlc0BnbWFpbC5jb20&amp;src=NmVlNjY4ZTkzMzNmYTAxOTI2MGQ3MzlmODQ1YzY0ZWI0YjkwMTZkY2M4ZmE5ZjdiMGJhYWNhZTdiZDQ1ODYzMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y181OGFkM2FiNzMxM2U4OTRkZWYxMDFjNmE2MjNhZDBjYTE2N2QxMmU5NmVlZTUxYzdjMmVlY2VjNDU4NjcyMzc5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%237CB342&amp;color=%23AD1457&amp;color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no">&lt;/iframe>
  &lt;/div>
 &lt;/div>
-&lt;hr></description></item><item><title>Online Donation</title><link>https://holyfamilyseattle.github.io/donation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://holyfamilyseattle.github.io/donation/</guid><description>&lt;p>All donations and payments to Holy Family Syro Malabar Catholic Mission can now be made through &lt;a target="_blank" href="https://get.tithe.ly/">Tithe.ly&lt;/a> which is built for churches and ministries to securely process your donations and payments.&lt;/p>
+&lt;hr>
+&lt;div class = "center">
+&lt;img src="https://holyfamilyseattle.github.io/img/2025-picnic.jpg" width="50%">
+&lt;img src="https://holyfamilyseattle.github.io/img/first_communion_2025.jpg" width="50%">
+&lt;/div></description></item><item><title>Online Donation</title><link>https://holyfamilyseattle.github.io/donation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://holyfamilyseattle.github.io/donation/</guid><description>&lt;p>All donations and payments to Holy Family Syro Malabar Catholic Mission can now be made through &lt;a target="_blank" href="https://get.tithe.ly/">Tithe.ly&lt;/a> which is built for churches and ministries to securely process your donations and payments.&lt;/p>
 &lt;p>&lt;a target="_blank" href="https://get.tithe.ly/">Tithe.ly&lt;/a> will issue a year-end giving statement for all your online donations.&lt;/p>
 &lt;p>Your donations are greatly appreciated and especially needed to support and maintain our ministries. Please prayerfully consider to make a recurring donation. Thank you.&lt;/p>
 &lt;style>
