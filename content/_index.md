@@ -3,11 +3,6 @@
 [banner]
 
   [[banner.button]]
-      url = "/priest-corner"
-      text = "Priest's Corner"
-      type = "secondary"
-
-  [[banner.button]]
       url = "/events"
       text = "Calendar/Events"
       type = "secondary"
