@@ -15,5 +15,5 @@
 #Details for the box below the banner
 [services]
   title = " "
-  text = "<img src=\"/img/pope-leo.jpg\" width=\"80%\" height=\"80%\">  <hr> <h3>Weekly Mass Schedule</h3> We meet every Sunday 5 PM and Saturday 9 AM at [3730 148th Ave SE, Bellevue, WA 98006](https://goo.gl/maps/b7gUDngzcUodwTtS6). <hr> "
+  text = "<img src=\"/img/pope-leo.jpg\" width=\"80%\" height=\"80%\">  <hr> <h3>Weekly Mass Schedule</h3> We meet every Sunday 4 PM and Saturday 9 AM at [St. Jude Catholic Church, 10526 166th Ave NE, Redmond, WA 98052](https://maps.app.goo.gl/5VKZMeyqE8Vse9e19). <hr> "
 +++
