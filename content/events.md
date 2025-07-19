@@ -21,6 +21,5 @@ title: "Events"
 
 
 <div class = "center">
-<img src="/img/2025-picnic.jpg" width="50%">
-<img src="/img/first_communion_2025.jpg" width="50%">
+<img src="/img/Perunal-2025.jpg" width="100%">
 </div>
