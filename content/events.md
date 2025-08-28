@@ -21,5 +21,5 @@ title: "Events"
 
 
 <div class = "center">
-<img src="/img/Perunnal-2025-schedule.jpeg" width="100%">
+<img src="/img/Perunnal-2025-schedule-final.jpeg" width="100%">
 </div>
