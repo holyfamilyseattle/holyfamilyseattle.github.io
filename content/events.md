@@ -23,3 +23,7 @@ title: "Events"
 <div class = "center">
 <img src="/img/chicago-silver-jubilee.jpeg" width="100%">
 </div>
+<br>
+<div class = "center">
+<img src="/img/HFSMCM-5-anniversary.jpeg" width="100%">
+</div>
