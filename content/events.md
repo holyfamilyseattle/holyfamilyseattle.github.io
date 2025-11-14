@@ -27,3 +27,7 @@ title: "Events"
 <div class = "center">
 <img src="/img/HFSMCM-5-anniversary.jpeg" width="100%">
 </div>
+<br>
+<div class = "center">
+<img src="/img/sponsors_2025.jpeg" width="100%">
+</div>
