@@ -21,11 +21,11 @@ title: "Events"
 
 
 <div class = "center">
-<img src="/img/chicago-silver-jubilee.jpeg" width="100%">
+<img src="/img/xmas2025.jpeg" width="100%">
 </div>
 <br>
 <div class = "center">
-<img src="/img/xmas2025.jpeg" width="100%">
+<img src="/img/chicago-silver-jubilee.jpeg" width="100%">
 </div>
 <br>
 <div class = "center">
