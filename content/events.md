@@ -21,7 +21,7 @@ title: "Events"
 
 
 <div class = "center">
-<img src="/img/Holyweek_2026.jpeg" width="100%">
+<img src="/img/holy-week-2026.jpeg" width="100%">
 </div>
 <br>
 <div class = "center">
