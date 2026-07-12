@@ -11,15 +11,20 @@ draft: false
 ---
 
 ### Parish Council Members
-* Anu Anand
-* Arun Mathew
-* Bibin Baby
+* Biju Mathew
+* Liz George
+* Robin Paul
 * Binish Mathew
-* Minta Thomas
-* Saji Alex
-* Sheena Mathew
-* Sunil John
-* Tintu Mathew
+* Sajay Jose
+* Manu Varghese
+* Daniel Vayalil
+* Ayana Sebastian
+* Anu Soosan Baby
+* Jancy Joseph
+* Jacob Thomas
+* Rajesh George
+* Thomas Thomas Paramundayil
+* Mary Remya
 
 ---
 
