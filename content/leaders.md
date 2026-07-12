@@ -5,9 +5,9 @@ draft: false
 ---
 
 ### Trustees
-* Betty Chempananical
+* Robin Paul
 * Biju Mathew
-* Sonimon James
+* Liz Sonimon
 ---
 
 ### Parish Council Members
@@ -24,13 +24,13 @@ draft: false
 ---
 
 ### Ministry Leads
-* Communications Ministry - Cijo Thomas
-* Food & Fellowship Ministry - Ajith Jose, Chrison Jacob
+* Communications Ministry - Anish K. Mony, Ajith Jose
+* Food & Fellowship Ministry - Cijo Thomas, Chrison Jacob
 * Hospitality Ministry - Thomas Mathew, Nithin Jose
 * Liturgical Ministry ( Altar Servers) - Manu Varghese
-* Liturgical Ministry (Altar Guild) - Minta Thomas
-* Music Ministry - Jerin Mathew & Liz George
-* Religious Education Ministry - Sajay Jose
+* Liturgical Ministry (Altar Guild) - Minta Thomas, Josmy Jose
+* Music Ministry - Bibin, Minu
+* Religious Education Ministry - Sajay Jose, Sonia Jacob
 * Outreach Ministry - Nissy Joseph
 * Tech Ministry - Tom Chempananical
-* Women's Fellowship Ministry - Asha Joseph, Amalu Johns
+* Women's Fellowship Ministry - Asha Joseph, Deena Jose
