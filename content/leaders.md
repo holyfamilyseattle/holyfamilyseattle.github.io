@@ -7,7 +7,7 @@ draft: false
 ### Trustees
 * Robin Paul
 * Biju Mathew
-* Liz Sonimon
+* Liz George
 ---
 
 ### Parish Council Members
