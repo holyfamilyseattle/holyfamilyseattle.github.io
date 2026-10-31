@@ -20,13 +20,9 @@ title: "Events"
 ---
 
 <div class = "center">
-<img src="/img/Perunaal_2026.png" width="100%">
+<img src="/img/2026-sponsor 2.jpeg" width="100%">
 </div>
 <br>
 <div class = "center">
-<img src="/img/VBS_2026.jpeg" width="100%">
-</div>
-<br>
-<div class = "center">
-<img src="/img/sponsors_2025.jpeg" width="100%">
+<img src="/img/2026-sponsor1.jpeg" width="100%">
 </div>
