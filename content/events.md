@@ -20,7 +20,7 @@ title: "Events"
 ---
 
 <div class = "center">
-<img src="/img/2026-sponsor 2.jpeg" width="100%">
+<img src="/img/2026-sponsor2.jpeg" width="100%">
 </div>
 <br>
 <div class = "center">
